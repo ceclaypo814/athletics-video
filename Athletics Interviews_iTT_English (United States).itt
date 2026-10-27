@@ -1,0 +1,1389 @@
+<?xml version="1.0"?>
+<tt xmlns:vt="http://namespace.itunes.apple.com/itt/ttml-extension#vertical" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:ittp="http://www.w3.org/ns/ttml/profile/imsc1#parameter" xmlns:tt_feature="http://www.w3.org/ns/ttml/feature/" xmlns:ebutts="urn:ebu:tt:style" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:tt_extension="http://www.w3.org/ns/ttml/extension/" xmlns:tt_profile="http://www.w3.org/ns/ttml/profile/" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ry="http://namespace.itunes.apple.com/itt/ttml-extension#ruby" xmlns:itts="http://www.w3.org/ns/ttml/profile/imsc1#styling" xmlns="http://www.w3.org/ns/ttml" xml:lang="en-US" ttp:dropMode="nonDrop" ttp:frameRate="30" ttp:frameRateMultiplier="1000 1001" ttp:timeBase="smpte" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <head>
+    <styling>
+      <style xml:id="normal" tts:color="white" tts:fontFamily="sansSerif" tts:fontSize="100%" tts:fontStyle="normal" tts:fontWeight="normal"/>
+    </styling>
+    <layout>
+      <region xml:id="bottom" tts:displayAlign="after" tts:extent="100% 15%" tts:origin="0% 85%" tts:writingMode="lrtb"/>
+    </layout>
+  </head>
+  <body tts:color="white" region="bottom" style="normal">
+    <div>
+      <p begin="00:00:00:01" end="00:00:02:09" region="bottom">I'm rolling now, and you can talk to me.</p>
+      <p begin="00:00:02:11" end="00:00:02:27" region="bottom">Okay.</p>
+      <p begin="00:00:02:28" end="00:00:04:21" region="bottom">You do not have to look right into the camera.</p>
+      <p begin="00:00:05:01" end="00:00:08:04" region="bottom">And, um, when I'm asking a question, kind</p>
+      <p begin="00:00:08:04" end="00:00:09:13" region="bottom">of repeat the gist of the question.</p>
+      <p begin="00:00:09:15" end="00:00:10:10" region="bottom">Okay.</p>
+      <p begin="00:00:10:12" end="00:00:12:22" region="bottom">So if I say like, what do you love about Meredith?</p>
+      <p begin="00:00:12:24" end="00:00:14:25" region="bottom">Well, I love Meredith because.</p>
+      <p begin="00:00:14:25" end="00:00:17:24" region="bottom">And then if you stumble over anything</p>
+      <p begin="00:00:17:25" end="00:00:21:12" region="bottom">or say something you don't like how you said it, I</p>
+      <p begin="00:00:21:13" end="00:00:23:26" region="bottom">just need you to pause and then restart that sentence.</p>
+      <p begin="00:00:23:29" end="00:00:27:04" region="bottom">You don't have to redo your whole answer and I can just cut it out.</p>
+      <p begin="00:00:27:06" end="00:00:27:20" region="bottom">Nobody else.</p>
+      <p begin="00:00:27:22" end="00:00:28:00" region="bottom">Okay.</p>
+      <p begin="00:00:28:01" end="00:00:28:20" region="bottom">Nobody will know.</p>
+      <p begin="00:00:28:23" end="00:00:29:07" region="bottom">Okay.</p>
+      <p begin="00:00:29:09" end="00:00:30:03" region="bottom">Um, except for us.</p>
+      <p begin="00:00:30:12" end="00:00:32:24" region="bottom">And yeah, that's pretty much it.</p>
+      <p begin="00:00:32:27" end="00:00:33:23" region="bottom">Do you have any questions for me?</p>
+      <p begin="00:00:33:25" end="00:00:34:20" region="bottom">I don't think so.</p>
+      <p begin="00:00:34:22" end="00:00:38:00" region="bottom">Okay, so if you can say and spell your name for me.</p>
+      <p begin="00:00:38:12" end="00:00:42:28" region="bottom">Fiona Barkley, F-I-O-N-A, B-A-R-K-L-E-Y.</p>
+      <p begin="00:00:43:01" end="00:00:44:12" region="bottom">And what is your title here?</p>
+      <p begin="00:00:44:14" end="00:00:46:15" region="bottom">Interim director of athletics.</p>
+      <p begin="00:00:46:17" end="00:00:47:08" region="bottom">Perfect.</p>
+      <p begin="00:00:47:22" end="00:00:51:01" region="bottom">Okay, so if you could tell me 1st</p>
+      <p begin="00:00:51:02" end="00:00:54:16" region="bottom">thing, is what is unique</p>
+      <p begin="00:00:54:29" end="00:00:57:20" region="bottom">about being a student athlete at Meredith College?</p>
+      <p begin="00:00:58:26" end="00:01:02:04" region="bottom">One of the most unique things about being a student athlete at Meredith</p>
+      <p begin="00:01:02:04" end="00:01:05:12" region="bottom">College is that we are in all women's college, and that the</p>
+      <p begin="00:01:05:13" end="00:01:08:00" region="bottom">teams are known for who they are?</p>
+      <p begin="00:01:08:02" end="00:01:11:03" region="bottom">It's not, oh, the women's team or whatnot,</p>
+      <p begin="00:01:11:04" end="00:01:14:05" region="bottom">we stand alone in our right to</p>
+      <p begin="00:01:14:06" end="00:01:18:15" region="bottom">be that sport and get the things that are needed</p>
+      <p begin="00:01:18:15" end="00:01:20:28" region="bottom">for the team based on the strengths of that program.</p>
+      <p begin="00:01:21:01" end="00:01:24:18" region="bottom">It's fun to see the women in our program excel,</p>
+      <p begin="00:01:24:19" end="00:01:27:26" region="bottom">just based on their own merit, while</p>
+      <p begin="00:01:27:26" end="00:01:30:09" region="bottom">Title 9 has been a huge part of the growth of athletics.</p>
+      <p begin="00:01:30:11" end="00:01:34:00" region="bottom">We're unique in the fact that our teams have grown just</p>
+      <p begin="00:01:34:01" end="00:01:36:11" region="bottom">as women's programs that are strong on their own.</p>
+      <p begin="00:01:36:13" end="00:01:37:24" region="bottom">I love that.</p>
+      <p begin="00:01:37:26" end="00:01:39:12" region="bottom">That's a great point.</p>
+      <p begin="00:01:39:15" end="00:01:40:08" region="bottom">Mm hmm.</p>
+      <p begin="00:01:42:05" end="00:01:45:15" region="bottom">Tell me, I know we were just talking about the support that</p>
+      <p begin="00:01:45:16" end="00:01:48:19" region="bottom">we're getting, athletics are getting as from</p>
+      <p begin="00:01:48:20" end="00:01:49:29" region="bottom">the institution itself.</p>
+      <p begin="00:01:50:01" end="00:01:51:21" region="bottom">So, you know, tell me what does that mean?</p>
+      <p begin="00:01:51:23" end="00:01:54:13" region="bottom">Like, what do you what do you feel like that translates into with having that?</p>
+      <p begin="00:01:54:16" end="00:01:56:14" region="bottom">that faith put into the programs.</p>
+      <p begin="00:01:56:28" end="00:01:59:29" region="bottom">In the last several years, we've seen such an amazing</p>
+      <p begin="00:02:00:00" end="00:02:03:08" region="bottom">support from the administration here at Meredith, the</p>
+      <p begin="00:02:03:08" end="00:02:07:21" region="bottom">executive leadership team at Meredith has shown so much excitement</p>
+      <p begin="00:02:07:21" end="00:02:09:07" region="bottom">behind athletics.</p>
+      <p begin="00:02:09:12" end="00:02:12:20" region="bottom">They understand the importance of what it brings to the campus community,</p>
+      <p begin="00:02:12:21" end="00:02:15:22" region="bottom">but also they've provided additional resources to</p>
+      <p begin="00:02:15:22" end="00:02:18:21" region="bottom">help us continue to grow, to support the student</p>
+      <p begin="00:02:18:22" end="00:02:20:17" region="bottom">athletes that are here and the ones that are coming.</p>
+      <p begin="00:02:20:20" end="00:02:21:20" region="bottom">Awesome.</p>
+      <p begin="00:02:23:24" end="00:02:26:25" region="bottom">What are things, is there anything, like, you</p>
+      <p begin="00:02:26:25" end="00:02:30:02" region="bottom">feel like, um, you hear a lot when you're talking to prospective</p>
+      <p begin="00:02:30:02" end="00:02:33:01" region="bottom">students or their families that are questions or concerns, they</p>
+      <p begin="00:02:33:02" end="00:02:34:22" region="bottom">maybe have about coming to America?</p>
+      <p begin="00:02:35:13" end="00:02:36:18" region="bottom">Let me think of that one a second.</p>
+      <p begin="00:02:39:28" end="00:02:40:08" region="bottom">Okay.</p>
+      <p begin="00:02:41:02" end="00:02:44:08" region="bottom">Every student athlete that I talk with and their parents say, I'll</p>
+      <p begin="00:02:44:08" end="00:02:47:15" region="bottom">have unique things that they're looking for in the college experience, but</p>
+      <p begin="00:02:47:15" end="00:02:50:22" region="bottom">one of the things that always stands true with being a student athlete is</p>
+      <p begin="00:02:50:23" end="00:02:53:22" region="bottom">that they walk in immediately to a community, whether it's through</p>
+      <p begin="00:02:53:22" end="00:02:56:29" region="bottom">just their team or the athletics department as a whole, they're</p>
+      <p begin="00:02:57:00" end="00:03:00:12" region="bottom">immediately connected to a group that are welcoming them and</p>
+      <p begin="00:03:00:12" end="00:03:02:23" region="bottom">supporting them throughout their experience here at Meredith.</p>
+      <p begin="00:03:03:12" end="00:03:03:17" region="bottom">Awesome.</p>
+      <p begin="00:03:03:21" end="00:03:06:06" region="bottom">Um, let's see.</p>
+      <p begin="00:03:06:08" end="00:03:09:11" region="bottom">What else is important for,</p>
+      <p begin="00:03:09:12" end="00:03:10:28" region="bottom">do you think, recruits to hear about?</p>
+      <p begin="00:03:12:19" end="00:03:15:18" region="bottom">Especially, like, thinking holistically of all the sports, you know?</p>
+      <p begin="00:03:15:21" end="00:03:16:12" region="bottom">Mm hmm.</p>
+      <p begin="00:03:22:23" end="00:03:24:01" region="bottom">What do you think, Ashby?</p>
+      <p begin="00:03:27:11" end="00:03:31:12" region="bottom">Things important for students to know if they're considering coming to Meredith.</p>
+      <p begin="00:03:34:24" end="00:03:35:04" region="bottom">The question?</p>
+      <p begin="00:03:35:07" end="00:03:36:11" region="bottom">Oh, I'll answer some questions.</p>
+      <p begin="00:03:36:13" end="00:03:37:11" region="bottom">Let you get behind this.</p>
+      <p begin="00:03:40:17" end="00:03:41:17" region="bottom">Here comes trouble.</p>
+      <p begin="00:03:41:19" end="00:03:41:29" region="bottom">Yeah.</p>
+      <p begin="00:03:42:02" end="00:03:42:25" region="bottom">Seriously.</p>
+      <p begin="00:03:42:27" end="00:03:44:17" region="bottom">I've already answered a couple questions.</p>
+      <p begin="00:03:44:19" end="00:03:46:07" region="bottom">Director, lady.</p>
+      <p begin="00:03:46:10" end="00:03:50:06" region="bottom">She transitioned from a head coach into an athletic director.</p>
+      <p begin="00:03:50:08" end="00:03:53:09" region="bottom">What are some of the things about the student athletes that make you most</p>
+      <p begin="00:03:53:10" end="00:03:56:04" region="bottom">proud from an administrative perspective?</p>
+      <p begin="00:03:56:06" end="00:03:56:29" region="bottom">Great question.</p>
+      <p begin="00:03:57:01" end="00:03:58:10" region="bottom">I know.</p>
+      <p begin="00:03:58:13" end="00:03:59:08" region="bottom">It's a mess.</p>
+      <p begin="00:04:00:18" end="00:04:01:03" region="bottom">Oh, man.</p>
+      <p begin="00:04:01:05" end="00:04:02:28" region="bottom">She said I'm a mess.</p>
+      <p begin="00:04:04:03" end="00:04:05:09" region="bottom">We'll probably keep that on the video.</p>
+      <p begin="00:04:05:10" end="00:04:05:20" region="bottom">Yeah.</p>
+      <p begin="00:04:05:22" end="00:04:06:14" region="bottom">She's a mess.</p>
+      <p begin="00:04:07:18" end="00:04:08:29" region="bottom">She's a mess cut to look.</p>
+      <p begin="00:04:11:11" end="00:04:12:00" region="bottom">In a minute.</p>
+      <p begin="00:04:16:05" end="00:04:16:24" region="bottom">All right.</p>
+      <p begin="00:04:17:00" end="00:04:18:23" region="bottom">Okay, you ready?</p>
+      <p begin="00:04:18:26" end="00:04:22:10" region="bottom">Yeah, and you can talk a little bit about how, like, you coached here for</p>
+      <p begin="00:04:22:10" end="00:04:24:21" region="bottom">a long time before moving into your current role.</p>
+      <p begin="00:04:26:00" end="00:04:26:16" region="bottom">Yeah, any of that.</p>
+      <p begin="00:04:26:27" end="00:04:28:04" region="bottom">Yeah.</p>
+      <p begin="00:04:28:17" end="00:04:31:17" region="bottom">So as I transition, from being a coach here at</p>
+      <p begin="00:04:31:17" end="00:04:34:16" region="bottom">Meredith into administration, it always sounds true that I'm</p>
+      <p begin="00:04:34:17" end="00:04:36:03" region="bottom">just so proud of the student athletes.</p>
+      <p begin="00:04:36:06" end="00:04:40:02" region="bottom">and all that they are able to accomplish, not only within their sport,</p>
+      <p begin="00:04:40:02" end="00:04:42:15" region="bottom">but in the classroom and through their extracurricular activities.</p>
+      <p begin="00:04:42:18" end="00:04:45:25" region="bottom">So many of them are involved in leadership opportunities</p>
+      <p begin="00:04:45:25" end="00:04:49:12" region="bottom">on campus, as well as internships and study</p>
+      <p begin="00:04:49:13" end="00:04:52:16" region="bottom">abroad and other things that just really make it for a holistic experience.</p>
+      <p begin="00:04:52:18" end="00:04:55:21" region="bottom">Well, they're also excelling in the classroom,</p>
+      <p begin="00:04:55:22" end="00:04:58:23" region="bottom">and maintaining high GPAs that will give</p>
+      <p begin="00:04:58:24" end="00:05:01:23" region="bottom">them opportunities, should they want to carry on to graduate school or</p>
+      <p begin="00:05:01:23" end="00:05:04:04" region="bottom">other types of post-back programs.</p>
+      <p begin="00:05:04:28" end="00:05:06:03" region="bottom">I like the best question.</p>
+      <p begin="00:05:06:05" end="00:05:07:00" region="bottom">Last one, sorry.</p>
+      <p begin="00:05:07:02" end="00:05:07:12" region="bottom">Okay, great.</p>
+      <p begin="00:05:07:14" end="00:05:08:05" region="bottom">No, I love it.</p>
+      <p begin="00:05:08:08" end="00:05:08:23" region="bottom">Okay.</p>
+      <p begin="00:05:11:08" end="00:05:14:18" region="bottom">Outside of their sports specifically, what does the athletic</p>
+      <p begin="00:05:14:18" end="00:05:17:21" region="bottom">department at Meredith College offer the student athletes, in</p>
+      <p begin="00:05:17:22" end="00:05:20:18" region="bottom">addition to, you know, playing with their teams and getting their academics here?</p>
+      <p begin="00:05:21:03" end="00:05:24:19" region="bottom">And then we got wings up, sack, you know, standard, all those things, you know?</p>
+      <p begin="00:05:25:05" end="00:05:26:01" region="bottom">volunteer.</p>
+      <p begin="00:05:26:14" end="00:05:27:00" region="bottom">Mm hmm.</p>
+      <p begin="00:05:27:02" end="00:05:27:10" region="bottom">Yeah.</p>
+      <p begin="00:05:28:12" end="00:05:31:18" region="bottom">Outside of just their opportunity to compete in their sport, the</p>
+      <p begin="00:05:31:19" end="00:05:35:19" region="bottom">student athletes here at Meredith have so many other opportunities within the athletics department.</p>
+      <p begin="00:05:36:09" end="00:05:39:28" region="bottom">They have the opportunity to be a part of SAC, our NCAA</p>
+      <p begin="00:05:39:29" end="00:05:43:18" region="bottom">SAC program, which is a national organization, leadership opportunity.</p>
+      <p begin="00:05:43:20" end="00:05:46:25" region="bottom">We also have the Angel Standard, which is a</p>
+      <p begin="00:05:46:26" end="00:05:49:29" region="bottom">culture development program that is unique to Meredith</p>
+      <p begin="00:05:49:29" end="00:05:53:00" region="bottom">College, and they have opportunities to be a part of Wings</p>
+      <p begin="00:05:53:01" end="00:05:56:02" region="bottom">Up, and Angel Nation, as</p>
+      <p begin="00:05:56:03" end="00:05:59:08" region="bottom">well as volunteering through their team, and other</p>
+      <p begin="00:05:59:08" end="00:06:01:23" region="bottom">opportunities on campus to get involved in plug-in.</p>
+      <p begin="00:06:01:25" end="00:06:02:25" region="bottom">Love that.</p>
+      <p begin="00:06:03:16" end="00:06:04:21" region="bottom">Those are all my questions for today.</p>
+      <p begin="00:06:07:23" end="00:06:10:26" region="bottom">I'm just gonna make you come with me on all my interviews now,</p>
+      <p begin="00:06:10:27" end="00:06:12:06" region="bottom">just so you know.</p>
+      <p begin="00:06:12:08" end="00:06:14:05" region="bottom">You can, like, loosen up the interview.</p>
+      <p begin="00:06:14:07" end="00:06:15:02" region="bottom">Yeah, she does.</p>
+      <p begin="00:06:16:20" end="00:06:17:05" region="bottom">Let's see.</p>
+      <p begin="00:06:17:07" end="00:06:20:19" region="bottom">Is there anything we didn't talk about that you feel like is important that we want to include?</p>
+      <p begin="00:06:22:27" end="00:06:26:05" region="bottom">Um, I think some of the stuff that comes</p>
+      <p begin="00:06:26:05" end="00:06:29:08" region="bottom">up in the recruiting opportunities is</p>
+      <p begin="00:06:29:09" end="00:06:32:10" region="bottom">stuff that will hopefully come out in the general video</p>
+      <p begin="00:06:32:11" end="00:06:35:12" region="bottom">where it's, you know, the location we talk a lot about</p>
+      <p begin="00:06:35:12" end="00:06:38:20" region="bottom">the resources available to them in</p>
+      <p begin="00:06:38:21" end="00:06:39:26" region="bottom">the Raleigh Triangle.</p>
+      <p begin="00:06:39:29" end="00:06:43:09" region="bottom">Well, do you want to talk a little bit about that, about, like, what our</p>
+      <p begin="00:06:43:10" end="00:06:45:02" region="bottom">location means for students coming here?</p>
+      <p begin="00:06:45:04" end="00:06:46:08" region="bottom">Yeah, for sure.</p>
+      <p begin="00:06:46:10" end="00:06:47:21" region="bottom">That's a great one.</p>
+      <p begin="00:06:47:23" end="00:06:50:22" region="bottom">The location here, being in the center of Raleigh, is</p>
+      <p begin="00:06:50:23" end="00:06:54:01" region="bottom">an amazing resource for our student athletes, because</p>
+      <p begin="00:06:54:01" end="00:06:57:18" region="bottom">when they're looking for those internships or other opportunities, there's</p>
+      <p begin="00:06:57:19" end="00:07:01:06" region="bottom">so many close by that they can get involved in, and</p>
+      <p begin="00:07:01:07" end="00:07:04:17" region="bottom">that really gives them that chance to still be a part of their sport, excel</p>
+      <p begin="00:07:04:18" end="00:07:08:25" region="bottom">in the classroom, but also have all those different resources at their fingertips.</p>
+      <p begin="00:07:08:27" end="00:07:11:21" region="bottom">The Raleigh Triangle area is so amazing.</p>
+      <p begin="00:07:11:24" end="00:07:15:13" region="bottom">And it's not only the opportunities</p>
+      <p begin="00:07:15:13" end="00:07:18:12" region="bottom">that are more scholastic, but then, of course, the fun things that</p>
+      <p begin="00:07:18:13" end="00:07:21:12" region="bottom">they can do in their free time, as far as, you know, going to</p>
+      <p begin="00:07:21:13" end="00:07:25:00" region="bottom">football games or hockey games or whatever they might like,</p>
+      <p begin="00:07:25:01" end="00:07:28:24" region="bottom">fun dinners out, all the things that the Raleigh Triangle offers.</p>
+      <p begin="00:07:28:28" end="00:07:31:27" region="bottom">It's this small campus environment with the big</p>
+      <p begin="00:07:31:28" end="00:07:33:16" region="bottom">college surrounding.</p>
+      <p begin="00:07:34:13" end="00:07:34:26" region="bottom">I love that.</p>
+      <p begin="00:07:35:10" end="00:07:35:26" region="bottom">Great job.</p>
+      <p begin="00:07:36:07" end="00:07:36:27" region="bottom">Okay.</p>
+      <p begin="00:07:36:29" end="00:07:39:19" region="bottom">All right, unless you have anything else, I think.</p>
+      <p begin="00:07:39:22" end="00:07:41:17" region="bottom">No, we're good, no, thanks.</p>
+      <p begin="00:07:47:12" end="00:07:48:26" tts:fontWeight="bold" region="bottom">Okay, all right.</p>
+      <p begin="00:07:48:29" end="00:07:53:01" tts:fontWeight="bold" region="bottom">So first, I'm just gonna have you say and spell your name for me.</p>
+      <p begin="00:07:53:03" end="00:07:56:29" tts:fontWeight="bold" region="bottom">Okay, Kim Scavone, S-C-A-V-O-N-E.</p>
+      <p begin="00:07:57:02" end="00:07:59:24" tts:fontWeight="bold" region="bottom">Okay, and what is your title?</p>
+      <p begin="00:07:59:27" end="00:08:02:07" tts:fontWeight="bold" region="bottom">I am the head softball coach.</p>
+      <p begin="00:08:02:08" end="00:08:05:11" tts:fontWeight="bold" region="bottom">I'm also the senior woman administrator and the director of compliance.</p>
+      <p begin="00:08:05:27" end="00:08:06:07" tts:fontWeight="bold" region="bottom">Amazing.</p>
+      <p begin="00:08:06:09" end="00:08:06:17" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:08:07:06" end="00:08:10:02" tts:fontWeight="bold" region="bottom">And I'm gonna kind of step over here if you see me looking at the camera.</p>
+      <p begin="00:08:10:15" end="00:08:11:22" tts:fontWeight="bold" region="bottom">That's just me checking.</p>
+      <p begin="00:08:11:26" end="00:08:13:00" tts:fontWeight="bold" region="bottom">You can talk to me.</p>
+      <p begin="00:08:13:08" end="00:08:13:22" tts:fontWeight="bold" region="bottom">I talking to you.</p>
+      <p begin="00:08:13:24" end="00:08:14:10" tts:fontWeight="bold" region="bottom">Okay, got you.</p>
+      <p begin="00:08:14:12" end="00:08:14:20" tts:fontWeight="bold" region="bottom">Talk to me.</p>
+      <p begin="00:08:14:22" end="00:08:15:05" tts:fontWeight="bold" region="bottom">Yeah, exactly.</p>
+      <p begin="00:08:15:21" end="00:08:15:25" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:08:15:25" end="00:08:16:03" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:08:16:06" end="00:08:17:08" tts:fontWeight="bold" region="bottom">I have to look right into the camera.</p>
+      <p begin="00:08:17:08" end="00:08:17:16" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:08:17:21" end="00:08:20:22" tts:fontWeight="bold" region="bottom">And when I'm asking you a question, repeat</p>
+      <p begin="00:08:20:22" end="00:08:22:08" tts:fontWeight="bold" region="bottom">kind of the gist of the question.</p>
+      <p begin="00:08:22:11" end="00:08:25:12" tts:fontWeight="bold" region="bottom">So if it's like, what's it like being a student athlete, you can be like,</p>
+      <p begin="00:08:25:13" end="00:08:27:12" tts:fontWeight="bold" region="bottom">well, being a student athlete at Meredith, a lot o'clock.</p>
+      <p begin="00:08:27:14" end="00:08:27:28" tts:fontWeight="bold" region="bottom">Gotcha, okay.</p>
+      <p begin="00:08:28:00" end="00:08:29:16" tts:fontWeight="bold" region="bottom">Because I'm going to be cut out of this.</p>
+      <p begin="00:08:29:18" end="00:08:29:28" tts:fontWeight="bold" region="bottom">Right, okay.</p>
+      <p begin="00:08:30:01" end="00:08:31:10" tts:fontWeight="bold" region="bottom">So just make sure...</p>
+      <p begin="00:08:31:14" end="00:08:32:01" tts:fontWeight="bold" region="bottom">of reiterate it.</p>
+      <p begin="00:08:32:04" end="00:08:32:09" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:08:32:11" end="00:08:32:25" tts:fontWeight="bold" region="bottom">Gotcha.</p>
+      <p begin="00:08:32:27" end="00:08:35:26" tts:fontWeight="bold" region="bottom">And then if you stumble over a word or you</p>
+      <p begin="00:08:35:27" end="00:08:38:28" tts:fontWeight="bold" region="bottom">don't like how you said something, all I need you to do for me is</p>
+      <p begin="00:08:38:29" end="00:08:41:16" tts:fontWeight="bold" region="bottom">just pause and then restart that sentence again.</p>
+      <p begin="00:08:41:16" end="00:08:42:05" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:08:42:08" end="00:08:43:12" tts:fontWeight="bold" region="bottom">And I will cut all that out.</p>
+      <p begin="00:08:43:26" end="00:08:45:04" tts:fontWeight="bold" region="bottom">And no one will be the wiser.</p>
+      <p begin="00:08:45:06" end="00:08:46:19" tts:fontWeight="bold" region="bottom">You don't have to repeat your.</p>
+      <p begin="00:08:46:21" end="00:08:47:07" tts:fontWeight="bold" region="bottom">What I said before.</p>
+      <p begin="00:08:47:09" end="00:08:47:17" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:08:47:20" end="00:08:50:21" tts:fontWeight="bold" region="bottom">Just start with where the, like, mess up was.</p>
+      <p begin="00:08:50:23" end="00:08:51:00" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:08:51:02" end="00:08:51:12" tts:fontWeight="bold" region="bottom">Yep.</p>
+      <p begin="00:08:51:15" end="00:08:51:25" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:08:52:18" end="00:08:53:15" tts:fontWeight="bold" region="bottom">All right.</p>
+      <p begin="00:08:53:16" end="00:08:54:05" tts:fontWeight="bold" region="bottom">Any questions for me?</p>
+      <p begin="00:08:54:07" end="00:08:58:02" tts:fontWeight="bold" region="bottom">I mean, do you want to let me know what they are ahead of time, or do you want this to be off the cuff completely?</p>
+      <p begin="00:08:58:03" end="00:09:01:28" tts:fontWeight="bold" region="bottom">It's more conversational, and it's really more,</p>
+      <p begin="00:09:01:29" end="00:09:04:05" tts:fontWeight="bold" region="bottom">I just kind of want to get your insight as a coach.</p>
+      <p begin="00:09:04:08" end="00:09:04:24" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:09:04:24" end="00:09:07:27" tts:fontWeight="bold" region="bottom">And maybe kind of is there, you know, things you talk</p>
+      <p begin="00:09:07:27" end="00:09:10:23" tts:fontWeight="bold" region="bottom">about when students are coming or things you know that is...</p>
+      <p begin="00:09:10:24" end="00:09:11:02" tts:fontWeight="bold" region="bottom">Gotcha.</p>
+      <p begin="00:09:11:03" end="00:09:11:10" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:09:11:12" end="00:09:11:29" tts:fontWeight="bold" region="bottom">You know what I mean?</p>
+      <p begin="00:09:12:02" end="00:09:14:10" tts:fontWeight="bold" region="bottom">I don't know that I know all of that stuff.</p>
+      <p begin="00:09:14:13" end="00:09:16:08" tts:fontWeight="bold" region="bottom">Yeah, yeah, kind of where I'm like, okay.</p>
+      <p begin="00:09:16:11" end="00:09:19:19" tts:fontWeight="bold" region="bottom">Like pretend I'm kind of like doing a recruit visit and telling these</p>
+      <p begin="00:09:19:20" end="00:09:21:12" tts:fontWeight="bold" region="bottom">folks what I normally tell people on their business.</p>
+      <p begin="00:09:21:14" end="00:09:21:22" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:09:21:23" end="00:09:23:02" tts:fontWeight="bold" region="bottom">I gotta think of your spiel.</p>
+      <p begin="00:09:23:04" end="00:09:23:11" tts:fontWeight="bold" region="bottom">Yes.</p>
+      <p begin="00:09:23:13" end="00:09:25:05" tts:fontWeight="bold" region="bottom">So you may have to help me a little bit.</p>
+      <p begin="00:09:25:07" end="00:09:25:24" tts:fontWeight="bold" region="bottom">Yeah, okay.</p>
+      <p begin="00:09:25:27" end="00:09:28:05" tts:fontWeight="bold" region="bottom">What are things that they ask you about?</p>
+      <p begin="00:09:28:07" end="00:09:28:17" tts:fontWeight="bold" region="bottom">Right.</p>
+      <p begin="00:09:28:20" end="00:09:29:16" tts:fontWeight="bold" region="bottom">And that sort of thing.</p>
+      <p begin="00:09:30:24" end="00:09:33:29" tts:fontWeight="bold" region="bottom">Okay, so 1st of all, I think let's just start with, could</p>
+      <p begin="00:09:34:00" end="00:09:37:03" tts:fontWeight="bold" region="bottom">you tell me a little bit about what is unique</p>
+      <p begin="00:09:37:03" end="00:09:40:01" tts:fontWeight="bold" region="bottom">about being a student athlete at Meredith College?</p>
+      <p begin="00:09:40:23" end="00:09:44:00" tts:fontWeight="bold" region="bottom">I think what is so unique about being a student athlete</p>
+      <p begin="00:09:44:00" end="00:09:48:04" tts:fontWeight="bold" region="bottom">at Meredith is there's just so much opportunity for them to pursue all of their interests.</p>
+      <p begin="00:09:48:06" end="00:09:51:07" tts:fontWeight="bold" region="bottom">They get a chance to play the sport that</p>
+      <p begin="00:09:51:08" end="00:09:54:07" tts:fontWeight="bold" region="bottom">they love with these wonderful facilities, and we have really</p>
+      <p begin="00:09:54:07" end="00:09:56:22" tts:fontWeight="bold" region="bottom">competitive, a really competitive conference.</p>
+      <p begin="00:09:56:23" end="00:10:00:05" tts:fontWeight="bold" region="bottom">The conference that we compete in is really competitive in the USA South.</p>
+      <p begin="00:10:00:07" end="00:10:03:10" tts:fontWeight="bold" region="bottom">So there's just a lot of opportunities for them to grow as an athlete, but then</p>
+      <p begin="00:10:03:11" end="00:10:06:28" tts:fontWeight="bold" region="bottom">also, with the way that division 3 structures our</p>
+      <p begin="00:10:06:29" end="00:10:10:06" tts:fontWeight="bold" region="bottom">seasons and our years, they can take part in</p>
+      <p begin="00:10:10:06" end="00:10:13:13" tts:fontWeight="bold" region="bottom">all of the wonderful internships that are available here, right in Raleigh.</p>
+      <p begin="00:10:13:15" end="00:10:16:25" tts:fontWeight="bold" region="bottom">They can participate in other clubs and activities on campus,</p>
+      <p begin="00:10:16:25" end="00:10:20:25" tts:fontWeight="bold" region="bottom">and they can really focus on whatever major they came here, to</p>
+      <p begin="00:10:20:26" end="00:10:23:25" tts:fontWeight="bold" region="bottom">partake in, and they graduate prepared to go</p>
+      <p begin="00:10:23:26" end="00:10:27:08" tts:fontWeight="bold" region="bottom">off into the career world, and they are just</p>
+      <p begin="00:10:27:08" end="00:10:31:10" tts:fontWeight="bold" region="bottom">ready to, they are ready to go out into the world, and they're prepared for their career.</p>
+      <p begin="00:10:31:14" end="00:10:31:28" tts:fontWeight="bold" region="bottom">Perfect.</p>
+      <p begin="00:10:33:08" end="00:10:34:23" tts:fontWeight="bold" region="bottom">I kind of restarted too.</p>
+      <p begin="00:10:35:07" end="00:10:36:11" tts:fontWeight="bold" region="bottom">Yoga, yeah.</p>
+      <p begin="00:10:36:13" end="00:10:37:18" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:10:37:21" end="00:10:38:12" tts:fontWeight="bold" region="bottom">The gist of it.</p>
+      <p begin="00:10:38:15" end="00:10:38:20" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:10:38:22" end="00:10:38:29" tts:fontWeight="bold" region="bottom">Yes.</p>
+      <p begin="00:10:39:01" end="00:10:42:17" tts:fontWeight="bold" region="bottom">And I think, so it sounds like they have a really good, like,</p>
+      <p begin="00:10:42:18" end="00:10:45:26" tts:fontWeight="bold" region="bottom">I don't want to say work-life balance, because that's not exactly right,</p>
+      <p begin="00:10:45:26" end="00:10:47:28" tts:fontWeight="bold" region="bottom">but almost like athlete life balance.</p>
+      <p begin="00:10:48:00" end="00:10:48:23" tts:fontWeight="bold" region="bottom">Yes.</p>
+      <p begin="00:10:48:26" end="00:10:51:29" tts:fontWeight="bold" region="bottom">The balance that they have is really wonderful, and there's just so much to do here.</p>
+      <p begin="00:10:52:01" end="00:10:54:05" tts:fontWeight="bold" region="bottom">So when they do have that time off from their sport,</p>
+      <p begin="00:10:54:07" end="00:10:57:17" tts:fontWeight="bold" region="bottom">They have a lot of opportunities to take advantage of on campus,</p>
+      <p begin="00:10:57:18" end="00:10:59:15" tts:fontWeight="bold" region="bottom">off campus, in the city of Raleigh.</p>
+      <p begin="00:10:59:18" end="00:11:02:28" tts:fontWeight="bold" region="bottom">So it's just really fun to see them engage with the campus</p>
+      <p begin="00:11:02:28" end="00:11:05:27" tts:fontWeight="bold" region="bottom">community and fill their time with their interests, and they</p>
+      <p begin="00:11:05:28" end="00:11:07:05" tts:fontWeight="bold" region="bottom">really get a lot out of the whole experience.</p>
+      <p begin="00:11:07:09" end="00:11:08:11" tts:fontWeight="bold" region="bottom">Awesome.</p>
+      <p begin="00:11:08:14" end="00:11:11:19" tts:fontWeight="bold" region="bottom">Um, what are, like, what are some of the common things that</p>
+      <p begin="00:11:11:19" end="00:11:15:03" tts:fontWeight="bold" region="bottom">you find when you're working with a perspective student</p>
+      <p begin="00:11:15:03" end="00:11:17:18" tts:fontWeight="bold" region="bottom">that's interested in playing softball here?</p>
+      <p begin="00:11:17:21" end="00:11:19:23" tts:fontWeight="bold" region="bottom">What are things you hear from them?</p>
+      <p begin="00:11:19:25" end="00:11:22:10" tts:fontWeight="bold" region="bottom">What are they, like, asking you about, I guess?</p>
+      <p begin="00:11:22:13" end="00:11:23:29" tts:fontWeight="bold" region="bottom">what concerns they would have.</p>
+      <p begin="00:11:24:01" end="00:11:27:02" tts:fontWeight="bold" region="bottom">A lot of times the questions that we have on visits are, what is</p>
+      <p begin="00:11:27:03" end="00:11:30:01" tts:fontWeight="bold" region="bottom">the day in the life of a student athlete like here at Meredith?</p>
+      <p begin="00:11:30:03" end="00:11:34:08" tts:fontWeight="bold" region="bottom">What is so wonderful about our program now is we have this beautiful facility,</p>
+      <p begin="00:11:34:09" end="00:11:37:10" tts:fontWeight="bold" region="bottom">and so it's been really great to see the time that they have</p>
+      <p begin="00:11:37:10" end="00:11:40:11" tts:fontWeight="bold" region="bottom">off firm classes and meetings and workouts</p>
+      <p begin="00:11:40:12" end="00:11:43:13" tts:fontWeight="bold" region="bottom">that they're here in the student athlete lounge, just kind of getting to know other</p>
+      <p begin="00:11:43:14" end="00:11:47:10" tts:fontWeight="bold" region="bottom">athletes on other teams, and really forming that community of Avenging Angels.</p>
+      <p begin="00:11:47:12" end="00:11:50:11" tts:fontWeight="bold" region="bottom">And so, a lot of times, prospective student athletes want to know what</p>
+      <p begin="00:11:50:12" end="00:11:53:11" tts:fontWeight="bold" region="bottom">a normal day would be like, and we just have so much support</p>
+      <p begin="00:11:53:12" end="00:11:56:15" tts:fontWeight="bold" region="bottom">here for students, whether they are coming from a class, and they go</p>
+      <p begin="00:11:56:16" end="00:11:59:26" tts:fontWeight="bold" region="bottom">to visit with their success coach, or go to the learning center, or meet</p>
+      <p begin="00:11:59:27" end="00:12:02:28" tts:fontWeight="bold" region="bottom">with teammates, and just hang out and go to lunch, but</p>
+      <p begin="00:12:02:28" end="00:12:06:01" tts:fontWeight="bold" region="bottom">there's just such a sense of community, and there's so much for them to do in</p>
+      <p begin="00:12:06:02" end="00:12:09:01" tts:fontWeight="bold" region="bottom">between, their workouts, their strength and conditioning, their lift,</p>
+      <p begin="00:12:09:02" end="00:12:10:29" tts:fontWeight="bold" region="bottom">their practices, and their classes.</p>
+      <p begin="00:12:11:03" end="00:12:14:15" tts:fontWeight="bold" region="bottom">And so it's just a really full, really busy day, but</p>
+      <p begin="00:12:14:15" end="00:12:15:28" tts:fontWeight="bold" region="bottom">they have time to do it all.</p>
+      <p begin="00:12:16:15" end="00:12:16:27" tts:fontWeight="bold" region="bottom">That's awesome.</p>
+      <p begin="00:12:17:22" end="00:12:20:29" tts:fontWeight="bold" region="bottom">What do you think, too, about, like, as you were talking about this, I</p>
+      <p begin="00:12:20:29" end="00:12:24:11" tts:fontWeight="bold" region="bottom">just thinking of coming to college, but being part of a team.</p>
+      <p begin="00:12:24:16" end="00:12:27:15" tts:fontWeight="bold" region="bottom">Like, obviously, I think it's, like, you almost</p>
+      <p begin="00:12:27:15" end="00:12:28:29" tts:fontWeight="bold" region="bottom">have built in friendships, right?</p>
+      <p begin="00:12:29:02" end="00:12:32:03" tts:fontWeight="bold" region="bottom">You're walking into a support network that's even stronger</p>
+      <p begin="00:12:32:04" end="00:12:34:14" tts:fontWeight="bold" region="bottom">than what an average student.</p>
+      <p begin="00:12:34:16" end="00:12:37:23" tts:fontWeight="bold" region="bottom">I'm not trying to diminish that experience, but like, maybe we,</p>
+      <p begin="00:12:37:23" end="00:12:41:10" tts:fontWeight="bold" region="bottom">if you could talk a little bit about to, like, how do you see the students supporting</p>
+      <p begin="00:12:41:11" end="00:12:43:04" tts:fontWeight="bold" region="bottom">each other, especially upper class games?</p>
+      <p begin="00:12:43:07" end="00:12:46:06" tts:fontWeight="bold" region="bottom">I think students being supported is something that Meredith</p>
+      <p begin="00:12:46:07" end="00:12:49:21" tts:fontWeight="bold" region="bottom">College does very well for all students, but with athletics,</p>
+      <p begin="00:12:49:21" end="00:12:52:20" tts:fontWeight="bold" region="bottom">you don't just come and get paired with your student advisor and a</p>
+      <p begin="00:12:52:21" end="00:12:54:11" tts:fontWeight="bold" region="bottom">faculty advisor or you're big.</p>
+      <p begin="00:12:54:13" end="00:12:56:21" tts:fontWeight="bold" region="bottom">If you participate in the big little program,</p>
+      <p begin="00:12:56:23" end="00:13:00:23" tts:fontWeight="bold" region="bottom">You have an instant friend group that's here, they understand what your stress is like.</p>
+      <p begin="00:13:00:25" end="00:13:02:04" tts:fontWeight="bold" region="bottom">They understand what your date is like.</p>
+      <p begin="00:13:02:08" end="00:13:05:09" tts:fontWeight="bold" region="bottom">And so you just have, you know, 20 plus like-minded</p>
+      <p begin="00:13:05:10" end="00:13:08:27" tts:fontWeight="bold" region="bottom">student athletes who are there to support you all the way through the process.</p>
+      <p begin="00:13:09:00" end="00:13:11:24" tts:fontWeight="bold" region="bottom">I actually had an athlete yesterday, a practice stop in the middle.</p>
+      <p begin="00:13:11:26" end="00:13:16:00" tts:fontWeight="bold" region="bottom">We were doing a scrimmage, and she stopped to thank me for giving her such</p>
+      <p begin="00:13:16:00" end="00:13:17:20" tts:fontWeight="bold" region="bottom">a funny, fun friend group.</p>
+      <p begin="00:13:17:22" end="00:13:19:01" tts:fontWeight="bold" region="bottom">She was like, I just love everybody.</p>
+      <p begin="00:13:19:06" end="00:13:22:09" tts:fontWeight="bold" region="bottom">She was being really sweet, but it is really nice, especially</p>
+      <p begin="00:13:22:09" end="00:13:26:00" tts:fontWeight="bold" region="bottom">as a parent of someone who's about to go out into college to be a student athlete.</p>
+      <p begin="00:13:26:02" end="00:13:29:03" tts:fontWeight="bold" region="bottom">I just know that that camaraderie and that friend group that you have as</p>
+      <p begin="00:13:29:04" end="00:13:31:23" tts:fontWeight="bold" region="bottom">a member of a team is just wonderful to support them right when they get here.</p>
+      <p begin="00:13:31:25" end="00:13:35:07" tts:fontWeight="bold" region="bottom">And so, it's just a wonderful, positive environment to be part of.</p>
+      <p begin="00:13:35:22" end="00:13:36:13" tts:fontWeight="bold" region="bottom">Awesome.</p>
+      <p begin="00:13:36:25" end="00:13:40:07" tts:fontWeight="bold" region="bottom">I know you mentioned briefly, um, a little bit about the facilities,</p>
+      <p begin="00:13:40:07" end="00:13:43:06" tts:fontWeight="bold" region="bottom">but you want to talk a little bit about how we have this new building</p>
+      <p begin="00:13:43:07" end="00:13:46:12" tts:fontWeight="bold" region="bottom">and what is available to, especially,</p>
+      <p begin="00:13:46:27" end="00:13:48:02" tts:fontWeight="bold" region="bottom">specifically softball.</p>
+      <p begin="00:13:48:06" end="00:13:49:01" tts:fontWeight="bold" region="bottom">Yes, absolutely.</p>
+      <p begin="00:13:49:03" end="00:13:52:13" tts:fontWeight="bold" region="bottom">So this is my 17th year here coaching at Meredith,</p>
+      <p begin="00:13:52:14" end="00:13:55:15" tts:fontWeight="bold" region="bottom">and I just get so proud when our alums come back,</p>
+      <p begin="00:13:55:15" end="00:13:58:16" tts:fontWeight="bold" region="bottom">and they get to see, kind of, they created the foundation, and how much</p>
+      <p begin="00:13:58:17" end="00:14:01:16" tts:fontWeight="bold" region="bottom">this program has grown, and thanks to a wonderful donation from</p>
+      <p begin="00:14:01:17" end="00:14:04:22" tts:fontWeight="bold" region="bottom">the SD Spate family, we now have this beautiful facility.</p>
+      <p begin="00:14:04:26" end="00:14:08:12" tts:fontWeight="bold" region="bottom">We have access 24 hour access to this batting</p>
+      <p begin="00:14:08:12" end="00:14:11:15" tts:fontWeight="bold" region="bottom">cage, everything we need, especially if we have to battle the elements in</p>
+      <p begin="00:14:11:15" end="00:14:12:29" tts:fontWeight="bold" region="bottom">January and February, which we often do.</p>
+      <p begin="00:14:13:02" end="00:14:16:01" tts:fontWeight="bold" region="bottom">They have the student athlete lounge where they can gather and</p>
+      <p begin="00:14:16:02" end="00:14:19:07" tts:fontWeight="bold" region="bottom">study and spend time together as friends and meet people on the other team.</p>
+      <p begin="00:14:19:11" end="00:14:22:12" tts:fontWeight="bold" region="bottom">A brand new athletic training room right here in the building,</p>
+      <p begin="00:14:22:13" end="00:14:25:16" tts:fontWeight="bold" region="bottom">so it's right next to our field, which is really just super</p>
+      <p begin="00:14:25:16" end="00:14:27:08" tts:fontWeight="bold" region="bottom">helpful and convenient to have.</p>
+      <p begin="00:14:27:10" end="00:14:30:08" tts:fontWeight="bold" region="bottom">And then they have access to two different locker rooms.</p>
+      <p begin="00:14:30:10" end="00:14:33:09" tts:fontWeight="bold" region="bottom">So the softball team has their inside locker where they can get ready for games</p>
+      <p begin="00:14:33:10" end="00:14:36:15" tts:fontWeight="bold" region="bottom">and store their school stuff and their practice gear.</p>
+      <p begin="00:14:36:17" end="00:14:38:12" tts:fontWeight="bold" region="bottom">And then we also have our mudroom.</p>
+      <p begin="00:14:38:16" end="00:14:41:17" tts:fontWeight="bold" region="bottom">So all of the very dirty softball equipment stays</p>
+      <p begin="00:14:41:18" end="00:14:44:19" tts:fontWeight="bold" region="bottom">in the mudroom, and they can go and access all of the equipment they need whenever they want</p>
+      <p begin="00:14:44:20" end="00:14:46:03" tts:fontWeight="bold" region="bottom">access to the field or the facility.</p>
+      <p begin="00:14:46:05" end="00:14:49:06" tts:fontWeight="bold" region="bottom">And then there's a kitchen, so we have access</p>
+      <p begin="00:14:49:06" end="00:14:52:11" tts:fontWeight="bold" region="bottom">to, you know, nutrition during the day for them in between their workouts.</p>
+      <p begin="00:14:52:12" end="00:14:56:12" tts:fontWeight="bold" region="bottom">It really just, in one building, gave us everything that we needed to grow our program.</p>
+      <p begin="00:14:56:14" end="00:14:57:10" tts:fontWeight="bold" region="bottom">That's awesome.</p>
+      <p begin="00:14:58:19" end="00:15:01:24" tts:fontWeight="bold" region="bottom">Um, is there other things that you feel like you hear a lot, or even</p>
+      <p begin="00:15:01:24" end="00:15:02:26" tts:fontWeight="bold" region="bottom">something from parents?</p>
+      <p begin="00:15:03:23" end="00:15:05:09" tts:fontWeight="bold" region="bottom">What are their food stars?</p>
+      <p begin="00:15:05:12" end="00:15:05:22" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:15:07:05" end="00:15:08:00" tts:fontWeight="bold" region="bottom">Sure, they have a lot.</p>
+      <p begin="00:15:08:01" end="00:15:08:13" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:15:09:28" end="00:15:13:00" tts:fontWeight="bold" region="bottom">I think parents are really always grateful to hear just the support</p>
+      <p begin="00:15:13:00" end="00:15:15:04" tts:fontWeight="bold" region="bottom">system that the student athletes will have while they're here.</p>
+      <p begin="00:15:15:07" end="00:15:18:06" tts:fontWeight="bold" region="bottom">They have their coaches, they have their teammates, the leadership on their</p>
+      <p begin="00:15:18:07" end="00:15:21:23" tts:fontWeight="bold" region="bottom">team, their team captains, but then they also have their advisors in</p>
+      <p begin="00:15:21:23" end="00:15:24:26" tts:fontWeight="bold" region="bottom">their, you know, chosen field of study, and then we have our success coaches,</p>
+      <p begin="00:15:24:26" end="00:15:26:01" tts:fontWeight="bold" region="bottom">the Strong Points program.</p>
+      <p begin="00:15:26:04" end="00:15:29:09" tts:fontWeight="bold" region="bottom">So it really is a place that you can come and learn about</p>
+      <p begin="00:15:29:09" end="00:15:31:20" tts:fontWeight="bold" region="bottom">yourself and others, but be supported the entire way.</p>
+      <p begin="00:15:31:23" end="00:15:35:05" tts:fontWeight="bold" region="bottom">The other thing that is really great about our programs</p>
+      <p begin="00:15:35:06" end="00:15:37:07" tts:fontWeight="bold" region="bottom">is with the internships that are built into them.</p>
+      <p begin="00:15:37:09" end="00:15:40:12" tts:fontWeight="bold" region="bottom">They're prepared for their career when they leave here, and so they</p>
+      <p begin="00:15:40:12" end="00:15:43:13" tts:fontWeight="bold" region="bottom">get to compete and have a lot of fun and accomplish their goals on the field,</p>
+      <p begin="00:15:43:14" end="00:15:46:24" tts:fontWeight="bold" region="bottom">but be ready to accomplish those goals in their career after they graduate.</p>
+      <p begin="00:15:46:26" end="00:15:47:21" tts:fontWeight="bold" region="bottom">I love that.</p>
+      <p begin="00:15:48:10" end="00:15:50:12" tts:fontWeight="bold" region="bottom">Is there anything I didn't ask you about?</p>
+      <p begin="00:15:50:14" end="00:15:51:06" tts:fontWeight="bold" region="bottom">that you feel like is important.</p>
+      <p begin="00:15:51:23" end="00:15:52:18" tts:fontWeight="bold" region="bottom">I'm trying to think.</p>
+      <p begin="00:15:52:23" end="00:15:55:12" tts:fontWeight="bold" region="bottom">Somebody who wants to be continue their</p>
+      <p begin="00:15:55:28" end="00:15:57:07" tts:fontWeight="bold" region="bottom">Yes, athletic Germany, I guess.</p>
+      <p begin="00:15:57:09" end="00:16:00:17" tts:fontWeight="bold" region="bottom">I think one thing that's also really great that we offer is our dual</p>
+      <p begin="00:16:00:18" end="00:16:03:19" tts:fontWeight="bold" region="bottom">degree engineering program, it's been really great to have student athletes</p>
+      <p begin="00:16:03:20" end="00:16:06:23" tts:fontWeight="bold" region="bottom">who were really interested in that major, and perhaps at other places</p>
+      <p begin="00:16:06:23" end="00:16:10:03" tts:fontWeight="bold" region="bottom">or other levels, you can't do some of those majors.</p>
+      <p begin="00:16:10:06" end="00:16:13:16" tts:fontWeight="bold" region="bottom">You're not, you don't have the</p>
+      <p begin="00:16:13:17" end="00:16:16:22" tts:fontWeight="bold" region="bottom">access to a major that's going to be as time consuming</p>
+      <p begin="00:16:16:22" end="00:16:17:26" tts:fontWeight="bold" region="bottom">as something like engineering.</p>
+      <p begin="00:16:17:28" end="00:16:20:29" tts:fontWeight="bold" region="bottom">And so when you come to Meredith, you can play your sport for</p>
+      <p begin="00:16:20:29" end="00:16:24:04" tts:fontWeight="bold" region="bottom">four years, but then also graduate in five with both your degree</p>
+      <p begin="00:16:24:05" end="00:16:26:16" tts:fontWeight="bold" region="bottom">for Meredith and your engineering degree from NCC.</p>
+      <p begin="00:16:26:19" end="00:16:29:06" tts:fontWeight="bold" region="bottom">And so that's kind of a unique program that we offer.</p>
+      <p begin="00:16:29:08" end="00:16:33:01" tts:fontWeight="bold" region="bottom">Our new nursing program is going to be great for Sudan athletes.</p>
+      <p begin="00:16:33:03" end="00:16:36:04" tts:fontWeight="bold" region="bottom">The feedback that I've heard is that other schools, it's not compatible</p>
+      <p begin="00:16:36:04" end="00:16:39:07" tts:fontWeight="bold" region="bottom">with the life of a student athlete, but we are gonna make sure here at Meredith</p>
+      <p begin="00:16:39:08" end="00:16:41:00" tts:fontWeight="bold" region="bottom">that our nursing students can do both.</p>
+      <p begin="00:16:41:02" end="00:16:44:19" tts:fontWeight="bold" region="bottom">They can compete in their sport while also pursuing their nursing degree.</p>
+      <p begin="00:16:44:23" end="00:16:48:09" tts:fontWeight="bold" region="bottom">So that's going to be something really special for us to help grow all of our programs.</p>
+      <p begin="00:16:48:11" end="00:16:49:11" tts:fontWeight="bold" region="bottom">I love that.</p>
+      <p begin="00:16:49:29" end="00:16:51:05" tts:fontWeight="bold" region="bottom">Awesome.</p>
+      <p begin="00:16:51:26" end="00:16:53:12" tts:fontWeight="bold" region="bottom">They cover a lot.</p>
+      <p begin="00:16:53:14" end="00:16:54:05" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:16:54:06" end="00:16:57:23" tts:fontWeight="bold" region="bottom">Unless there's anything else you could think of that.</p>
+      <p begin="00:16:57:24" end="00:16:58:08" tts:fontWeight="bold" region="bottom">Trying to think.</p>
+      <p begin="00:16:59:09" end="00:17:02:18" tts:fontWeight="bold" region="bottom">Do you want me to name, like, some of the careers that my girls are out doing,</p>
+      <p begin="00:17:02:19" end="00:17:05:22" tts:fontWeight="bold" region="bottom">or, like, to show that more, um, like, man,</p>
+      <p begin="00:17:05:23" end="00:17:08:15" tts:fontWeight="bold" region="bottom">I have doctors, I have pilots, I have lawyers, I have,</p>
+      <p begin="00:17:08:17" end="00:17:13:00" tts:fontWeight="bold" region="bottom">I mean, I've been here for so long, so it's just, um, but yeah, I can.</p>
+      <p begin="00:17:13:02" end="00:17:16:03" tts:fontWeight="bold" region="bottom">I mean, I think you could, if you want to give, like, a quick soundbite, too, about, like,</p>
+      <p begin="00:17:16:04" end="00:17:19:05" tts:fontWeight="bold" region="bottom">how what you're saying, like, I've been</p>
+      <p begin="00:17:19:06" end="00:17:23:13" tts:fontWeight="bold" region="bottom">at Meredith for a long time, and so I've been able to see where</p>
+      <p begin="00:17:23:13" end="00:17:26:14" tts:fontWeight="bold" region="bottom">my, you know, where my athletes have ended up and</p>
+      <p begin="00:17:26:15" end="00:17:29:16" tts:fontWeight="bold" region="bottom">what they are doing, and, you know, where they're having</p>
+      <p begin="00:17:29:17" end="00:17:33:12" tts:fontWeight="bold" region="bottom">amazing success, and you could maybe list some of the things that they are doing.</p>
+      <p begin="00:17:33:15" end="00:17:34:13" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:17:37:20" end="00:17:39:11" tts:fontWeight="bold" region="bottom">Oh, is Lauren barking at me?</p>
+      <p begin="00:17:39:13" end="00:17:40:29" tts:fontWeight="bold" region="bottom">Oh my gosh.</p>
+      <p begin="00:17:41:14" end="00:17:42:23" tts:fontWeight="bold" region="bottom">Lisa, was it actually Mona?</p>
+      <p begin="00:17:42:26" end="00:17:44:05" tts:fontWeight="bold" region="bottom">Well, there probably isn't.</p>
+      <p begin="00:17:44:07" end="00:17:46:00" tts:fontWeight="bold" region="bottom">I'm sure Mona is also here, but that was Lauren.</p>
+      <p begin="00:17:46:14" end="00:17:46:29" tts:fontWeight="bold" region="bottom">I'm real excited.</p>
+      <p begin="00:17:47:02" end="00:17:47:27" tts:fontWeight="bold" region="bottom">I was like, is there a dog?</p>
+      <p begin="00:17:49:11" end="00:17:52:11" tts:fontWeight="bold" region="bottom">Yeah, I think one of the most wonderful things about my job is</p>
+      <p begin="00:17:52:12" end="00:17:55:19" tts:fontWeight="bold" region="bottom">I get to know our student athletes during the recruiting process, see</p>
+      <p begin="00:17:55:19" end="00:17:58:22" tts:fontWeight="bold" region="bottom">them grow up as part as members of our program,</p>
+      <p begin="00:17:58:22" end="00:18:02:18" tts:fontWeight="bold" region="bottom">but then also see them go off into the world and start their lives.</p>
+      <p begin="00:18:02:21" end="00:18:04:07" tts:fontWeight="bold" region="bottom">And having been here for as long as I have.</p>
+      <p begin="00:18:04:10" end="00:18:07:15" tts:fontWeight="bold" region="bottom">I'm so proud to say that we have alums out there doing</p>
+      <p begin="00:18:07:15" end="00:18:08:19" tts:fontWeight="bold" region="bottom">wonderful things.</p>
+      <p begin="00:18:08:21" end="00:18:12:14" tts:fontWeight="bold" region="bottom">We have pediatricians and physicians and pilot.</p>
+      <p begin="00:18:12:16" end="00:18:16:00" tts:fontWeight="bold" region="bottom">We have lawyers, people in finance, a</p>
+      <p begin="00:18:16:00" end="00:18:17:22" tts:fontWeight="bold" region="bottom">lot of fantastic educators.</p>
+      <p begin="00:18:17:24" end="00:18:20:23" tts:fontWeight="bold" region="bottom">So it's just really great to see them come here with a goal and</p>
+      <p begin="00:18:20:24" end="00:18:24:01" tts:fontWeight="bold" region="bottom">work towards that and then go off into the rest of their life prepared to do it.</p>
+      <p begin="00:18:24:16" end="00:18:25:00" tts:fontWeight="bold" region="bottom">Love that.</p>
+      <p begin="00:18:25:02" end="00:18:25:28" tts:fontWeight="bold" region="bottom">Perfect.</p>
+      <p begin="00:18:26:22" end="00:18:27:01" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:18:32:27" end="00:18:36:25" tts:fontWeight="bold" region="bottom">Okay, so we'll just start if you want if you can say and spell your full name for me.</p>
+      <p begin="00:18:36:27" end="00:18:40:23" tts:fontWeight="bold" region="bottom">Okay, Lauren Scott, L-A-U, R-E-N, F C-O-T-T.</p>
+      <p begin="00:18:40:26" end="00:18:42:23" tts:fontWeight="bold" region="bottom">And what is your official title?</p>
+      <p begin="00:18:42:25" end="00:18:45:26" tts:fontWeight="bold" region="bottom">I am the head women's lacrosse coach and the associate effect</p>
+      <p begin="00:18:45:27" end="00:18:47:04" tts:fontWeight="bold" region="bottom">director for Internal Affairs.</p>
+      <p begin="00:18:48:12" end="00:18:48:23" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:18:49:09" end="00:18:50:04" tts:fontWeight="bold" region="bottom">All right, Lauren.</p>
+      <p begin="00:18:50:07" end="00:18:53:23" tts:fontWeight="bold" region="bottom">Um, if you could talk to me a little bit about what is</p>
+      <p begin="00:18:53:23" end="00:18:57:05" tts:fontWeight="bold" region="bottom">unique about being a student athlete at Meredith College.</p>
+      <p begin="00:18:58:04" end="00:19:01:09" tts:fontWeight="bold" region="bottom">I think being a student athlete at Meredith College is unique because of</p>
+      <p begin="00:19:01:09" end="00:19:04:10" tts:fontWeight="bold" region="bottom">the opportunities that our athletes get, you know, you're</p>
+      <p begin="00:19:04:11" end="00:19:07:12" tts:fontWeight="bold" region="bottom">going to get to be in a place that challenges you academically, but</p>
+      <p begin="00:19:07:13" end="00:19:09:01" tts:fontWeight="bold" region="bottom">also within your competitive teams.</p>
+      <p begin="00:19:09:07" end="00:19:12:14" tts:fontWeight="bold" region="bottom">The opportunities that Meredith that I've</p>
+      <p begin="00:19:12:14" end="00:19:15:10" tts:fontWeight="bold" region="bottom">been able to afford my student athletes are for soft to become a champion.</p>
+      <p begin="00:19:15:12" end="00:19:17:27" tts:fontWeight="bold" region="bottom">You come here, you could be a champion in the classroom.</p>
+      <p begin="00:19:17:29" end="00:19:19:21" tts:fontWeight="bold" region="bottom">You have professors that are gonna assist you in that.</p>
+      <p begin="00:19:19:23" end="00:19:20:25" tts:fontWeight="bold" region="bottom">You've got people in all corners.</p>
+      <p begin="00:19:20:29" end="00:19:25:04" tts:fontWeight="bold" region="bottom">But then you also come to the athletic field, and we breed champions out there as well.</p>
+      <p begin="00:19:25:24" end="00:19:28:29" tts:fontWeight="bold" region="bottom">No one I've ever recruited to Meredith hasn't left a champion, and</p>
+      <p begin="00:19:29:00" end="00:19:30:11" tts:fontWeight="bold" region="bottom">it takes hard work.</p>
+      <p begin="00:19:30:13" end="00:19:33:18" tts:fontWeight="bold" region="bottom">It takes dedication, it takes the right place and the right people.</p>
+      <p begin="00:19:33:20" end="00:19:37:04" tts:fontWeight="bold" region="bottom">And here at Meredith, you can find your unique fit and become a winner.</p>
+      <p begin="00:19:38:03" end="00:19:39:05" tts:fontWeight="bold" region="bottom">That was great, man.</p>
+      <p begin="00:19:39:06" end="00:19:39:25" tts:fontWeight="bold" region="bottom">Okay, great.</p>
+      <p begin="00:19:39:27" end="00:19:40:29" tts:fontWeight="bold" region="bottom">Okay, I love it, champ.</p>
+      <p begin="00:19:41:01" end="00:19:41:08" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:19:46:06" end="00:19:47:03" tts:fontWeight="bold" region="bottom">I'm hamming up the audience.</p>
+      <p begin="00:19:47:05" end="00:19:47:26" tts:fontWeight="bold" region="bottom">You are.</p>
+      <p begin="00:19:48:03" end="00:19:48:14" tts:fontWeight="bold" region="bottom">I love it.</p>
+      <p begin="00:19:48:16" end="00:19:49:03" tts:fontWeight="bold" region="bottom">I love it.</p>
+      <p begin="00:19:49:22" end="00:19:53:04" tts:fontWeight="bold" region="bottom">So, as a coach, you've been here for a while.</p>
+      <p begin="00:19:53:05" end="00:19:55:27" tts:fontWeight="bold" region="bottom">Were you the original lacrosse coach, too?</p>
+      <p begin="00:19:55:29" end="00:19:56:06" tts:fontWeight="bold" region="bottom">Right.</p>
+      <p begin="00:19:56:08" end="00:19:57:04" tts:fontWeight="bold" region="bottom">So you've been here.</p>
+      <p begin="00:19:57:07" end="00:19:57:24" tts:fontWeight="bold" region="bottom">The OJ.</p>
+      <p begin="00:19:57:29" end="00:20:02:12" tts:fontWeight="bold" region="bottom">The OG, you've seen a whole program come from non-existent</p>
+      <p begin="00:20:02:12" end="00:20:03:28" tts:fontWeight="bold" region="bottom">to where you guys are now.</p>
+      <p begin="00:20:05:25" end="00:20:09:19" tts:fontWeight="bold" region="bottom">Can you tell me, like, what has that experience been like being at Meredith and getting to be a part of that?</p>
+      <p begin="00:20:11:04" end="00:20:14:09" tts:fontWeight="bold" region="bottom">Developing the women's lacrosse team has almost been like</p>
+      <p begin="00:20:14:09" end="00:20:16:19" tts:fontWeight="bold" region="bottom">full circle to see a freshman through graduation.</p>
+      <p begin="00:20:16:21" end="00:20:19:20" tts:fontWeight="bold" region="bottom">You know, when I started the lacrosse program at Meredith,</p>
+      <p begin="00:20:19:21" end="00:20:21:02" tts:fontWeight="bold" region="bottom">we were brand new.</p>
+      <p begin="00:20:21:04" end="00:20:22:27" tts:fontWeight="bold" region="bottom">A lot of our athletes had never played before.</p>
+      <p begin="00:20:23:00" end="00:20:24:22" tts:fontWeight="bold" region="bottom">We didn't get that recruiting year.</p>
+      <p begin="00:20:24:24" end="00:20:28:04" tts:fontWeight="bold" region="bottom">We were taking club kids and turning them into collegiate athletes,</p>
+      <p begin="00:20:28:05" end="00:20:32:00" tts:fontWeight="bold" region="bottom">but by the time those who stuck it through graduated, they were champions.</p>
+      <p begin="00:20:32:02" end="00:20:34:15" tts:fontWeight="bold" region="bottom">And I think that's just the makeup of Meredith College.</p>
+      <p begin="00:20:34:17" end="00:20:37:20" tts:fontWeight="bold" region="bottom">You know, you come in as a freshman, you are looking to find</p>
+      <p begin="00:20:37:21" end="00:20:40:24" tts:fontWeight="bold" region="bottom">yourself, you're looking to develop into the person you want to be, and</p>
+      <p begin="00:20:40:24" end="00:20:43:14" tts:fontWeight="bold" region="bottom">Meredith gives you those opportunities, both on and off the field.</p>
+      <p begin="00:20:43:19" end="00:20:46:22" tts:fontWeight="bold" region="bottom">And so, you know, a lot of times, we have these overwhelmed freshmen</p>
+      <p begin="00:20:46:22" end="00:20:49:23" tts:fontWeight="bold" region="bottom">who come in, not sure that they're capable of handling, you</p>
+      <p begin="00:20:49:24" end="00:20:53:10" tts:fontWeight="bold" region="bottom">know, the rigor of their academics, the workload, making</p>
+      <p begin="00:20:53:10" end="00:20:56:20" tts:fontWeight="bold" region="bottom">money on the side for those who have to work, doing internships,</p>
+      <p begin="00:20:56:21" end="00:20:59:22" tts:fontWeight="bold" region="bottom">traveling abroad, and the hours and hours that they need to</p>
+      <p begin="00:20:59:22" end="00:21:03:06" tts:fontWeight="bold" region="bottom">be with their coaching staff, watching film, going to practice, traveling.</p>
+      <p begin="00:21:03:09" end="00:21:06:08" tts:fontWeight="bold" region="bottom">But by the time they leave, those overwhelmed</p>
+      <p begin="00:21:06:08" end="00:21:09:15" tts:fontWeight="bold" region="bottom">freshmen are incredibly capable student athletes</p>
+      <p begin="00:21:09:16" end="00:21:13:18" tts:fontWeight="bold" region="bottom">entering the workforce, and they are some of the most marketable professionals there are.</p>
+      <p begin="00:21:14:12" end="00:21:14:23" tts:fontWeight="bold" region="bottom">That's awesome.</p>
+      <p begin="00:21:14:26" end="00:21:15:07" tts:fontWeight="bold" region="bottom">Cool.</p>
+      <p begin="00:21:17:09" end="00:21:20:11" tts:fontWeight="bold" region="bottom">What are, you know, kind of, I guess, maybe some of the support or</p>
+      <p begin="00:21:20:11" end="00:21:23:12" tts:fontWeight="bold" region="bottom">social benefits of coming in as a</p>
+      <p begin="00:21:23:13" end="00:21:26:27" tts:fontWeight="bold" region="bottom">freshman, but getting to be part of a team, instead of, you</p>
+      <p begin="00:21:26:27" end="00:21:29:26" tts:fontWeight="bold" region="bottom">know, not, again, not to diminish what our other students are going</p>
+      <p begin="00:21:29:27" end="00:21:33:02" tts:fontWeight="bold" region="bottom">through, but, like, what, you know, I think there's some benefit when you're coming</p>
+      <p begin="00:21:33:02" end="00:21:36:00" tts:fontWeight="bold" region="bottom">and you have that built-in network to tell me a little bit about that.</p>
+      <p begin="00:21:36:22" end="00:21:39:21" tts:fontWeight="bold" region="bottom">When a freshman comes to Meredith, they certainly have a little</p>
+      <p begin="00:21:39:22" end="00:21:40:26" tts:fontWeight="bold" region="bottom">bit of an advantage.</p>
+      <p begin="00:21:40:28" end="00:21:44:17" tts:fontWeight="bold" region="bottom">Being a student athlete, then some of our non athletes,</p>
+      <p begin="00:21:44:18" end="00:21:46:22" tts:fontWeight="bold" region="bottom">simply because they're put right into a family.</p>
+      <p begin="00:21:46:24" end="00:21:48:21" tts:fontWeight="bold" region="bottom">They're put right into the middle of accountability.</p>
+      <p begin="00:21:48:23" end="00:21:52:16" tts:fontWeight="bold" region="bottom">They're put right into the middle of a</p>
+      <p begin="00:21:52:17" end="00:21:56:03" tts:fontWeight="bold" region="bottom">workload that is kind of laid out for them, but also,</p>
+      <p begin="00:21:56:09" end="00:21:57:17" tts:fontWeight="bold" region="bottom">I'll rephrase this.</p>
+      <p begin="00:22:00:21" end="00:22:03:26" tts:fontWeight="bold" region="bottom">Our freshmen are brought into a situation where they're</p>
+      <p begin="00:22:03:27" end="00:22:07:09" tts:fontWeight="bold" region="bottom">cared about, they're looked after, but they're also kind of pushed and challenged a</p>
+      <p begin="00:22:07:09" end="00:22:09:24" tts:fontWeight="bold" region="bottom">little bit more, because being a student athlete does require more.</p>
+      <p begin="00:22:09:26" end="00:22:13:08" tts:fontWeight="bold" region="bottom">It requires that intrinsic motivation to be</p>
+      <p begin="00:22:13:09" end="00:22:16:10" tts:fontWeight="bold" region="bottom">great in more than one thing and to kind of divide up</p>
+      <p begin="00:22:16:11" end="00:22:17:11" tts:fontWeight="bold" region="bottom">your precious free time.</p>
+      <p begin="00:22:17:13" end="00:22:20:12" tts:fontWeight="bold" region="bottom">You don't have as much as everybody else, but you do</p>
+      <p begin="00:22:20:13" end="00:22:23:21" tts:fontWeight="bold" region="bottom">get that family, and you do get that</p>
+      <p begin="00:22:23:22" end="00:22:26:25" tts:fontWeight="bold" region="bottom">satisfaction of accomplishing something every single day that</p>
+      <p begin="00:22:26:25" end="00:22:30:18" tts:fontWeight="bold" region="bottom">you not only go to class, but you withstand a really tough practice,</p>
+      <p begin="00:22:30:19" end="00:22:34:11" tts:fontWeight="bold" region="bottom">and the mental and physical challenges, just</p>
+      <p begin="00:22:34:11" end="00:22:37:18" tts:fontWeight="bold" region="bottom">give you that extra motivation to realize that you can do more, and</p>
+      <p begin="00:22:37:19" end="00:22:40:13" tts:fontWeight="bold" region="bottom">the family and teammates around you make you feel supported while doing it.</p>
+      <p begin="00:22:40:15" end="00:22:40:24" tts:fontWeight="bold" region="bottom">Awesome.</p>
+      <p begin="00:22:43:11" end="00:22:46:04" tts:fontWeight="bold" region="bottom">Having been here for more than one year.</p>
+      <p begin="00:22:47:24" end="00:22:50:27" tts:fontWeight="bold" region="bottom">And you've gotten to see where I'm sure you keep in touch with</p>
+      <p begin="00:22:50:28" end="00:22:54:26" tts:fontWeight="bold" region="bottom">some of your athletes as they've gone off into the world.</p>
+      <p begin="00:22:54:29" end="00:22:56:17" tts:fontWeight="bold" region="bottom">What are some of the things they're doing?</p>
+      <p begin="00:22:56:17" end="00:22:59:16" tts:fontWeight="bold" region="bottom">Like, what are, I guess, like some of the success stories you've seen</p>
+      <p begin="00:22:59:17" end="00:23:02:18" tts:fontWeight="bold" region="bottom">and where you've seen some of your players end up</p>
+      <p begin="00:23:02:19" end="00:23:04:14" tts:fontWeight="bold" region="bottom">in this, you know, career wise, that sort of thing.</p>
+      <p begin="00:23:05:12" end="00:23:08:20" tts:fontWeight="bold" region="bottom">One of the things I love most about Meredith and being</p>
+      <p begin="00:23:08:20" end="00:23:11:19" tts:fontWeight="bold" region="bottom">afforded the opportunity to coach here is being able to be a</p>
+      <p begin="00:23:11:20" end="00:23:14:19" tts:fontWeight="bold" region="bottom">part of a culture that keeps growing and expanding, and</p>
+      <p begin="00:23:14:20" end="00:23:17:27" tts:fontWeight="bold" region="bottom">being able to see my student athletes</p>
+      <p begin="00:23:17:27" end="00:23:20:26" tts:fontWeight="bold" region="bottom">through their four years, and then after to attend their</p>
+      <p begin="00:23:20:27" end="00:23:24:07" tts:fontWeight="bold" region="bottom">weddings, to hold their babies, to bring them back on alumni game,</p>
+      <p begin="00:23:24:08" end="00:23:26:16" tts:fontWeight="bold" region="bottom">just reminds me that what we're doing here is so special.</p>
+      <p begin="00:23:26:18" end="00:23:29:10" tts:fontWeight="bold" region="bottom">We have some of the most incredible graduates.</p>
+      <p begin="00:23:29:14" end="00:23:32:13" tts:fontWeight="bold" region="bottom">We've got engineers, we've got firefighters, we've got</p>
+      <p begin="00:23:32:14" end="00:23:34:25" tts:fontWeight="bold" region="bottom">businesswomen, we've got entrepreneurs.</p>
+      <p begin="00:23:34:28" end="00:23:38:05" tts:fontWeight="bold" region="bottom">We've got it all, and they will all credit back their</p>
+      <p begin="00:23:38:05" end="00:23:41:04" tts:fontWeight="bold" region="bottom">experience at Meredith, not only to their professors and what they've learned, but also</p>
+      <p begin="00:23:41:05" end="00:23:45:19" tts:fontWeight="bold" region="bottom">to their experience, being a student athlete, and how it prepared them for conquering their real life.</p>
+      <p begin="00:23:45:24" end="00:23:46:22" tts:fontWeight="bold" region="bottom">Awesome.</p>
+      <p begin="00:23:47:26" end="00:23:51:20" tts:fontWeight="bold" region="bottom">When you are talking with a perspective student and their family,</p>
+      <p begin="00:23:51:23" end="00:23:55:16" tts:fontWeight="bold" region="bottom">What are some of the concerns or questions that you,</p>
+      <p begin="00:23:55:17" end="00:23:58:27" tts:fontWeight="bold" region="bottom">they approach you with, um, a lot, or, like, things,</p>
+      <p begin="00:23:58:27" end="00:24:00:06" tts:fontWeight="bold" region="bottom">common things.</p>
+      <p begin="00:24:00:09" end="00:24:01:18" tts:fontWeight="bold" region="bottom">This is what you're gonna edit, playing time.</p>
+      <p begin="00:24:01:29" end="00:24:03:13" tts:fontWeight="bold" region="bottom">Am I gonna play, how much?</p>
+      <p begin="00:24:03:18" end="00:24:05:24" tts:fontWeight="bold" region="bottom">What are the questions that they come at me?</p>
+      <p begin="00:24:05:26" end="00:24:06:17" tts:fontWeight="bold" region="bottom">Okay, um.</p>
+      <p begin="00:24:06:25" end="00:24:09:01" tts:fontWeight="bold" region="bottom">Things you think would be good to kind of cover in this.</p>
+      <p begin="00:24:09:11" end="00:24:09:18" tts:fontWeight="bold" region="bottom">Mm-hmm.</p>
+      <p begin="00:24:09:19" end="00:24:10:03" tts:fontWeight="bold" region="bottom">I think.</p>
+      <p begin="00:24:13:05" end="00:24:16:06" tts:fontWeight="bold" region="bottom">A lot of times when student athletes are considering Meredith, one of the</p>
+      <p begin="00:24:16:07" end="00:24:19:06" tts:fontWeight="bold" region="bottom">big reasons they do decide to come here</p>
+      <p begin="00:24:19:07" end="00:24:22:21" tts:fontWeight="bold" region="bottom">is because of the location and the opportunities that this location provides them.</p>
+      <p begin="00:24:22:23" end="00:24:25:26" tts:fontWeight="bold" region="bottom">So in going through the recruiting process, you know, a tentative</p>
+      <p begin="00:24:25:27" end="00:24:28:28" tts:fontWeight="bold" region="bottom">student athlete from out of state is looking around, trying to feel,</p>
+      <p begin="00:24:28:28" end="00:24:31:29" tts:fontWeight="bold" region="bottom">like, how are they going to fit in the small campus, and they fit</p>
+      <p begin="00:24:32:00" end="00:24:33:20" tts:fontWeight="bold" region="bottom">in, because they've got people looking out for them.</p>
+      <p begin="00:24:33:22" end="00:24:37:00" tts:fontWeight="bold" region="bottom">They're a big fish in a small pond, but they also have that landscape</p>
+      <p begin="00:24:37:01" end="00:24:40:02" tts:fontWeight="bold" region="bottom">of Raleigh, where they can go over to NC State,</p>
+      <p begin="00:24:40:03" end="00:24:43:19" tts:fontWeight="bold" region="bottom">where they can take classes there, where they can hide,</p>
+      <p begin="00:24:43:19" end="00:24:46:18" tts:fontWeight="bold" region="bottom">if they will, or find their place in a bigger pond, by</p>
+      <p begin="00:24:46:19" end="00:24:49:20" tts:fontWeight="bold" region="bottom">challenging themselves, socially, by challenging themselves in internships, and</p>
+      <p begin="00:24:49:20" end="00:24:51:19" tts:fontWeight="bold" region="bottom">really kind of getting outside Meredith's campus.</p>
+      <p begin="00:24:51:22" end="00:24:54:25" tts:fontWeight="bold" region="bottom">So a lot of times, when we're recruiting out of state athletes,</p>
+      <p begin="00:24:54:25" end="00:24:58:02" tts:fontWeight="bold" region="bottom">you know, NC State, and specifically, the city of Raleigh,</p>
+      <p begin="00:24:58:02" end="00:25:01:03" tts:fontWeight="bold" region="bottom">is a great resource to engage</p>
+      <p begin="00:25:01:04" end="00:25:04:05" tts:fontWeight="bold" region="bottom">them in, and to have them understand that, you</p>
+      <p begin="00:25:04:06" end="00:25:07:05" tts:fontWeight="bold" region="bottom">know, Meredith is confined to the acres here, but the city</p>
+      <p begin="00:25:07:05" end="00:25:08:14" tts:fontWeight="bold" region="bottom">of Raleigh is really your playground.</p>
+      <p begin="00:25:09:07" end="00:25:10:12" tts:fontWeight="bold" region="bottom">I don't like the word playground.</p>
+      <p begin="00:25:10:14" end="00:25:11:01" tts:fontWeight="bold" region="bottom">Sorry, but...</p>
+      <p begin="00:25:11:06" end="00:25:11:25" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:25:11:26" end="00:25:12:01" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:25:12:03" end="00:25:14:16" tts:fontWeight="bold" region="bottom">The city of Raleigh is really where you're gonna grow and...</p>
+      <p begin="00:25:14:18" end="00:25:15:25" tts:fontWeight="bold" region="bottom">Do it again, 'cause I was talking.</p>
+      <p begin="00:25:16:11" end="00:25:18:20" tts:fontWeight="bold" region="bottom">But the city of Raleigh is really where you're gonna grow.</p>
+      <p begin="00:25:18:24" end="00:25:19:01" tts:fontWeight="bold" region="bottom">Perfect.</p>
+      <p begin="00:25:20:12" end="00:25:21:18" tts:fontWeight="bold" region="bottom">Playground is a weird word.</p>
+      <p begin="00:25:21:21" end="00:25:22:08" tts:fontWeight="bold" region="bottom">That's okay.</p>
+      <p begin="00:25:24:21" end="00:25:27:23" tts:fontWeight="bold" region="bottom">Is there anything else that I didn't ask you about that you think would be...</p>
+      <p begin="00:25:27:26" end="00:25:28:28" tts:fontWeight="bold" region="bottom">Let me think.</p>
+      <p begin="00:25:30:25" end="00:25:31:27" tts:fontWeight="bold" region="bottom">Yeah, I got something.</p>
+      <p begin="00:25:33:01" end="00:25:36:23" tts:fontWeight="bold" region="bottom">I was gonna say something about, like, what can a student athlete expect from their experience?</p>
+      <p begin="00:25:36:26" end="00:25:37:21" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:25:37:23" end="00:25:38:03" tts:fontWeight="bold" region="bottom">All right.</p>
+      <p begin="00:25:38:05" end="00:25:38:28" tts:fontWeight="bold" region="bottom">You want me to prompt you?</p>
+      <p begin="00:25:39:00" end="00:25:41:28" tts:fontWeight="bold" region="bottom">Um, no, I can just I'm just gonna basically be like, This is hard.</p>
+      <p begin="00:25:42:00" end="00:25:45:12" tts:fontWeight="bold" region="bottom">Like, being choosing student athlete is choosing hard, but you owe it to yourself to choose hard.</p>
+      <p begin="00:25:45:15" end="00:25:46:24" tts:fontWeight="bold" region="bottom">It's kind of just gonna say something like that.</p>
+      <p begin="00:25:46:26" end="00:25:48:03" tts:fontWeight="bold" region="bottom">Yeah, you can frame it.</p>
+      <p begin="00:25:48:05" end="00:25:48:12" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:25:48:27" end="00:25:49:13" tts:fontWeight="bold" region="bottom">like that.</p>
+      <p begin="00:25:52:15" end="00:25:56:01" tts:fontWeight="bold" region="bottom">Choosing to be a student athlete at Meredith is, in</p>
+      <p begin="00:25:56:01" end="00:25:59:22" tts:fontWeight="bold" region="bottom">my opinion, choosing hard, and you owe it to yourself to choose hard.</p>
+      <p begin="00:25:59:24" end="00:26:02:13" tts:fontWeight="bold" region="bottom">These are the years where you want to be uncomfortable.</p>
+      <p begin="00:26:02:15" end="00:26:05:23" tts:fontWeight="bold" region="bottom">You want to dip that toe uncomfortable, and then eventually you want to dive in.</p>
+      <p begin="00:26:05:26" end="00:26:09:19" tts:fontWeight="bold" region="bottom">This is where you're gonna grow, you're gonna shape, you're gonna mold who you're gonna be in the future.</p>
+      <p begin="00:26:09:21" end="00:26:12:20" tts:fontWeight="bold" region="bottom">And being a student athlete is gonna challenge you in ways</p>
+      <p begin="00:26:12:21" end="00:26:15:29" tts:fontWeight="bold" region="bottom">beyond what being an athlete in high school has ever done.</p>
+      <p begin="00:26:16:02" end="00:26:19:09" tts:fontWeight="bold" region="bottom">You are going from the oldest and the</p>
+      <p begin="00:26:19:09" end="00:26:22:14" tts:fontWeight="bold" region="bottom">leader on your team to back down to a freshman, and</p>
+      <p begin="00:26:22:14" end="00:26:26:19" tts:fontWeight="bold" region="bottom">you want to make sure that you're going somewhere that's going to nurture that experience.</p>
+      <p begin="00:26:26:23" end="00:26:30:25" tts:fontWeight="bold" region="bottom">And Meredith is the place where, especially</p>
+      <p begin="00:26:30:26" end="00:26:33:27" tts:fontWeight="bold" region="bottom">on my team, you're gonna come here, you're gonna be pushed, you're gonna be challenged, you're</p>
+      <p begin="00:26:33:27" end="00:26:37:00" tts:fontWeight="bold" region="bottom">gonna be poked, and you're gonna come out so much stronger than you could have ever imagined.</p>
+      <p begin="00:26:37:20" end="00:26:38:02" tts:fontWeight="bold" region="bottom">I love that.</p>
+      <p begin="00:26:38:05" end="00:26:38:13" tts:fontWeight="bold" region="bottom">Cool.</p>
+      <p begin="00:26:39:23" end="00:26:40:04" tts:fontWeight="bold" region="bottom">Awesome.</p>
+      <p begin="00:26:40:06" end="00:26:41:13" tts:fontWeight="bold" region="bottom">You want me to get Fifi?</p>
+      <p begin="00:26:47:29" end="00:26:49:05" tts:fontWeight="bold" region="bottom">Okay, I am rolling.</p>
+      <p begin="00:26:49:08" end="00:26:52:07" tts:fontWeight="bold" region="bottom">So first, I'm just gonna be say and spelling your name.</p>
+      <p begin="00:26:52:10" end="00:26:53:03" tts:fontWeight="bold" region="bottom">It's really hard.</p>
+      <p begin="00:26:54:13" end="00:26:57:16" tts:fontWeight="bold" region="bottom">Lauren Turner, L-A-U-R-Y-N,</p>
+      <p begin="00:26:57:17" end="00:26:58:26" tts:fontWeight="bold" region="bottom">T-U-R-N-E-R.</p>
+      <p begin="00:26:58:28" end="00:27:00:26" tts:fontWeight="bold" region="bottom">And what class you are you?</p>
+      <p begin="00:27:01:05" end="00:27:02:18" tts:fontWeight="bold" region="bottom">Class of 2020 flash.</p>
+      <p begin="00:27:03:04" end="00:27:06:13" tts:fontWeight="bold" region="bottom">And what is your official title?</p>
+      <p begin="00:27:06:14" end="00:27:11:02" tts:fontWeight="bold" region="bottom">I am the assistant woman's lacrosse coach as well as the,</p>
+      <p begin="00:27:11:03" end="00:27:13:03" tts:fontWeight="bold" region="bottom">we're just going to say, this is the woman's cross coach.</p>
+      <p begin="00:27:13:05" end="00:27:16:08" tts:fontWeight="bold" region="bottom">Do I need to say, like, I'm the advisor for Wings of Sports and Sack</p>
+      <p begin="00:27:16:09" end="00:27:17:14" tts:fontWeight="bold" region="bottom">or...</p>
+      <p begin="00:27:17:17" end="00:27:18:10" tts:fontWeight="bold" region="bottom">This is just for me.</p>
+      <p begin="00:27:18:13" end="00:27:18:18" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:27:18:18" end="00:27:19:13" tts:fontWeight="bold" region="bottom">This isn't going to be that.</p>
+      <p begin="00:27:19:14" end="00:27:19:23" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:27:19:28" end="00:27:22:02" tts:fontWeight="bold" region="bottom">Oh, just woman's a cross coach.</p>
+      <p begin="00:27:22:04" end="00:27:22:22" tts:fontWeight="bold" region="bottom">We'll just say that.</p>
+      <p begin="00:27:22:24" end="00:27:23:15" tts:fontWeight="bold" region="bottom">Should I say that again?</p>
+      <p begin="00:27:23:17" end="00:27:24:01" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:27:24:03" end="00:27:24:09" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:27:24:12" end="00:27:26:10" tts:fontWeight="bold" region="bottom">I'm the assistant women's cross coach.</p>
+      <p begin="00:27:26:12" end="00:27:28:22" tts:fontWeight="bold" region="bottom">And what was your major?</p>
+      <p begin="00:27:28:23" end="00:27:29:22" tts:fontWeight="bold" region="bottom">Mass communications.</p>
+      <p begin="00:27:31:08" end="00:27:31:16" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:27:31:18" end="00:27:34:21" tts:fontWeight="bold" region="bottom">Um, now we've got that fun one out of the way.</p>
+      <p begin="00:27:34:23" end="00:27:36:29" tts:fontWeight="bold" region="bottom">Tell me a little bit about...</p>
+      <p begin="00:27:37:19" end="00:27:40:29" tts:fontWeight="bold" region="bottom">you know, the experience of having been an</p>
+      <p begin="00:27:41:00" end="00:27:44:03" tts:fontWeight="bold" region="bottom">athlete and now you're getting to, um, to coach the</p>
+      <p begin="00:27:44:04" end="00:27:46:04" tts:fontWeight="bold" region="bottom">sport that you played here at Meredith.</p>
+      <p begin="00:27:46:07" end="00:27:48:01" tts:fontWeight="bold" region="bottom">Yeah, I mean, the experience is incredible.</p>
+      <p begin="00:27:48:03" end="00:27:51:12" tts:fontWeight="bold" region="bottom">I was given the opportunity to come back and I,</p>
+      <p begin="00:27:51:12" end="00:27:54:18" tts:fontWeight="bold" region="bottom">you know, I always</p>
+      <p begin="00:27:54:18" end="00:27:57:08" tts:fontWeight="bold" region="bottom">have the words in my mind, I just can't get them out.</p>
+      <p begin="00:27:57:12" end="00:27:59:10" tts:fontWeight="bold" region="bottom">It's so funny because as a calm major,</p>
+      <p begin="00:27:59:10" end="00:28:00:14" tts:fontWeight="bold" region="bottom">You think I'd be able to do this?</p>
+      <p begin="00:28:01:00" end="00:28:04:05" tts:fontWeight="bold" region="bottom">But the problem is, like, you know what happens</p>
+      <p begin="00:28:04:07" end="00:28:06:01" tts:fontWeight="bold" region="bottom">and you, or you're going to think about it.</p>
+      <p begin="00:28:07:17" end="00:28:10:23" tts:fontWeight="bold" region="bottom">Because Scott just, like, I'm like, how do you do that?</p>
+      <p begin="00:28:10:25" end="00:28:11:26" tts:fontWeight="bold" region="bottom">She doesn't know.</p>
+      <p begin="00:28:12:00" end="00:28:13:21" tts:fontWeight="bold" region="bottom">She doesn't know what we have to go through.</p>
+      <p begin="00:28:13:24" end="00:28:15:03" tts:fontWeight="bold" region="bottom">But you know.</p>
+      <p begin="00:28:15:05" end="00:28:19:26" tts:fontWeight="bold" region="bottom">I do the same thing if it makes you feel better when I've been interviewed where I overpook it.</p>
+      <p begin="00:28:20:18" end="00:28:24:09" tts:fontWeight="bold" region="bottom">You just have to kind of turn that off and think of it more, again, like, I</p>
+      <p begin="00:28:24:10" end="00:28:26:05" tts:fontWeight="bold" region="bottom">know, pretend the camera's not there.</p>
+      <p begin="00:28:26:08" end="00:28:27:19" tts:fontWeight="bold" region="bottom">super easy to do.</p>
+      <p begin="00:28:27:22" end="00:28:28:07" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:28:28:07" end="00:28:31:06" tts:fontWeight="bold" region="bottom">Um, but truly just kind of ignore</p>
+      <p begin="00:28:31:19" end="00:28:33:03" tts:fontWeight="bold" region="bottom">what is going on over here.</p>
+      <p begin="00:28:33:04" end="00:28:33:25" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:28:34:14" end="00:28:37:22" tts:fontWeight="bold" region="bottom">So would it be, do you want to start more with like your</p>
+      <p begin="00:28:37:23" end="00:28:38:24" tts:fontWeight="bold" region="bottom">time as a player?</p>
+      <p begin="00:28:38:28" end="00:28:39:19" tts:fontWeight="bold" region="bottom">Would that be better?</p>
+      <p begin="00:28:39:20" end="00:28:40:03" tts:fontWeight="bold" region="bottom">Yeah, okay.</p>
+      <p begin="00:28:40:05" end="00:28:41:06" tts:fontWeight="bold" region="bottom">Do you have all of the questions?</p>
+      <p begin="00:28:42:03" end="00:28:43:11" tts:fontWeight="bold" region="bottom">Or is it just okay?</p>
+      <p begin="00:28:43:12" end="00:28:44:05" tts:fontWeight="bold" region="bottom">okay, okay, okay, okay.</p>
+      <p begin="00:28:44:08" end="00:28:46:02" tts:fontWeight="bold" region="bottom">Yeah, yeah, the 1st one?</p>
+      <p begin="00:28:46:13" end="00:28:48:22" tts:fontWeight="bold" region="bottom">If you start, like, about my experience?</p>
+      <p begin="00:28:48:24" end="00:28:51:14" tts:fontWeight="bold" region="bottom">Tell me about, like, as an athlete.</p>
+      <p begin="00:28:57:05" end="00:28:58:29" tts:fontWeight="bold" region="bottom">where you were recruited through the cross, right?</p>
+      <p begin="00:28:59:02" end="00:28:59:08" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:28:59:10" end="00:29:02:20" tts:fontWeight="bold" region="bottom">So can you tell me a little bit about, like, why you</p>
+      <p begin="00:29:02:22" end="00:29:05:21" tts:fontWeight="bold" region="bottom">decided as an athlete that you wanted to come</p>
+      <p begin="00:29:05:22" end="00:29:07:20" tts:fontWeight="bold" region="bottom">to Meredith and continue playing?</p>
+      <p begin="00:29:07:20" end="00:29:10:19" tts:fontWeight="bold" region="bottom">So I chose to come to Meredith one because I wanted</p>
+      <p begin="00:29:10:20" end="00:29:13:19" tts:fontWeight="bold" region="bottom">to play for a competitive program and also be, you</p>
+      <p begin="00:29:13:20" end="00:29:16:21" tts:fontWeight="bold" region="bottom">know, surrounded by strong culture, but also because I wanted to</p>
+      <p begin="00:29:16:22" end="00:29:22:17" tts:fontWeight="bold" region="bottom">become I have all the words in mind.</p>
+      <p begin="00:29:23:05" end="00:29:24:16" tts:fontWeight="bold" region="bottom">You can just put that part over.</p>
+      <p begin="00:29:24:19" end="00:29:24:24" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:29:24:27" end="00:29:25:18" tts:fontWeight="bold" region="bottom">The beginning was great.</p>
+      <p begin="00:29:27:15" end="00:29:28:11" tts:fontWeight="bold" region="bottom">What did you want to become?</p>
+      <p begin="00:29:39:04" end="00:29:40:15" tts:fontWeight="bold" region="bottom">academic experience.</p>
+      <p begin="00:29:40:18" end="00:29:41:07" tts:fontWeight="bold" region="bottom">Okay, okay, okay.</p>
+      <p begin="00:29:41:12" end="00:29:44:11" tts:fontWeight="bold" region="bottom">Yeah, because I think that's one of the things is you can do both.</p>
+      <p begin="00:29:44:13" end="00:29:46:24" tts:fontWeight="bold" region="bottom">I'm told, there's going to be so many cuts on this.</p>
+      <p begin="00:29:47:22" end="00:29:50:21" tts:fontWeight="bold" region="bottom">With wings of sports, it would take me a</p>
+      <p begin="00:29:50:22" end="00:29:52:28" tts:fontWeight="bold" region="bottom">100 takes, even though I had a teleprompter.</p>
+      <p begin="00:29:54:08" end="00:29:54:13" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:29:55:12" end="00:29:55:17" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:29:55:19" end="00:29:58:18" tts:fontWeight="bold" region="bottom">I also chose Meredith because I wanted a strong academic</p>
+      <p begin="00:29:58:19" end="00:30:02:27" tts:fontWeight="bold" region="bottom">experience, you know, where I was able to become a</p>
+      <p begin="00:30:02:27" end="00:30:06:00" tts:fontWeight="bold" region="bottom">strong person in the classroom while also learning from my</p>
+      <p begin="00:30:06:00" end="00:30:08:29" tts:fontWeight="bold" region="bottom">peers and my professors who I would, I would able,</p>
+      <p begin="00:30:09:00" end="00:30:12:28" tts:fontWeight="bold" region="bottom">I would be able to form, um, relationships</p>
+      <p begin="00:30:12:29" end="00:30:14:29" tts:fontWeight="bold" region="bottom">with outside of the classroom, should I start that over?</p>
+      <p begin="00:30:15:02" end="00:30:15:20" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:30:15:22" end="00:30:16:10" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:30:17:04" end="00:30:18:19" tts:fontWeight="bold" region="bottom">You were able to form relationships.</p>
+      <p begin="00:30:18:23" end="00:30:18:27" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:30:21:12" end="00:30:25:03" tts:fontWeight="bold" region="bottom">I chose Meredith because I wanted to have a strong academic experience as well.</p>
+      <p begin="00:30:25:05" end="00:30:28:08" tts:fontWeight="bold" region="bottom">Um, I wanted to have those relationships with my professors and</p>
+      <p begin="00:30:28:09" end="00:30:31:08" tts:fontWeight="bold" region="bottom">peers that were strong outside of the classroom, um, but also have</p>
+      <p begin="00:30:31:09" end="00:30:33:09" tts:fontWeight="bold" region="bottom">a strong academic experience in the classroom.</p>
+      <p begin="00:30:33:10" end="00:30:36:09" tts:fontWeight="bold" region="bottom">Um, I also wanted a great social life,</p>
+      <p begin="00:30:36:10" end="00:30:39:19" tts:fontWeight="bold" region="bottom">and I was able to get the best of both worlds, being at a smaller academic</p>
+      <p begin="00:30:39:19" end="00:30:43:04" tts:fontWeight="bold" region="bottom">institution while a larger social aspect</p>
+      <p begin="00:30:43:05" end="00:30:46:19" tts:fontWeight="bold" region="bottom">going, okay, I'll say smaller.</p>
+      <p begin="00:30:46:22" end="00:30:47:06" tts:fontWeight="bold" region="bottom">larger.</p>
+      <p begin="00:30:47:27" end="00:30:48:00" tts:fontWeight="bold" region="bottom">yeah.</p>
+      <p begin="00:30:48:03" end="00:30:48:22" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:30:49:15" end="00:30:51:01" tts:fontWeight="bold" region="bottom">Um, Okay.</p>
+      <p begin="00:30:52:00" end="00:30:53:05" tts:fontWeight="bold" region="bottom">So funny.</p>
+      <p begin="00:30:54:04" end="00:30:54:22" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:30:54:24" end="00:30:58:15" tts:fontWeight="bold" region="bottom">Um, I</p>
+      <p begin="00:30:58:15" end="00:31:00:21" tts:fontWeight="bold" region="bottom">wanted a smaller academic experience.</p>
+      <p begin="00:31:02:09" end="00:31:03:18" tts:fontWeight="bold" region="bottom">I wanted...</p>
+      <p begin="00:31:03:20" end="00:31:04:08" tts:fontWeight="bold" region="bottom">Yeah, yeah, yeah.</p>
+      <p begin="00:31:04:09" end="00:31:07:10" tts:fontWeight="bold" region="bottom">I wanted a smaller school academically while a larger</p>
+      <p begin="00:31:07:12" end="00:31:10:15" tts:fontWeight="bold" region="bottom">social life experience and having NC State right across the street was</p>
+      <p begin="00:31:10:15" end="00:31:12:09" tts:fontWeight="bold" region="bottom">definitely something that sold me.</p>
+      <p begin="00:31:12:10" end="00:31:15:13" tts:fontWeight="bold" region="bottom">I also wanted to be able to be involved</p>
+      <p begin="00:31:15:14" end="00:31:18:28" tts:fontWeight="bold" region="bottom">in those experiences that I might not get if I went to a larger introdution,</p>
+      <p begin="00:31:18:28" end="00:31:22:07" tts:fontWeight="bold" region="bottom">including starting a sports broadcasting show called Wings</p>
+      <p begin="00:31:22:08" end="00:31:25:14" tts:fontWeight="bold" region="bottom">of Sports, where I was in charge of, you know, covering</p>
+      <p begin="00:31:25:14" end="00:31:28:15" tts:fontWeight="bold" region="bottom">everything, Meredith Athletics for 3 years, and now the</p>
+      <p begin="00:31:28:17" end="00:31:31:16" tts:fontWeight="bold" region="bottom">fun part of it is coming back and being the advisor, but also</p>
+      <p begin="00:31:31:17" end="00:31:35:15" tts:fontWeight="bold" region="bottom">being involved in the student athlete, also</p>
+      <p begin="00:31:35:15" end="00:31:37:08" tts:fontWeight="bold" region="bottom">being involved in the student athlete advisory committee.</p>
+      <p begin="00:31:37:10" end="00:31:37:15" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:31:37:27" end="00:31:41:11" tts:fontWeight="bold" region="bottom">And also being involved in a student athlete advisory committee called</p>
+      <p begin="00:31:47:05" end="00:31:50:06" tts:fontWeight="bold" region="bottom">So those are just 2 experience that I was able to gain</p>
+      <p begin="00:31:50:07" end="00:31:53:25" tts:fontWeight="bold" region="bottom">as a student athlete at Meredith and also some things that maybe who I am today.</p>
+      <p begin="00:31:54:13" end="00:31:54:27" tts:fontWeight="bold" region="bottom">That's awesome.</p>
+      <p begin="00:31:55:10" end="00:31:58:11" tts:fontWeight="bold" region="bottom">So it sounds like you were really, I think maybe one thing I might</p>
+      <p begin="00:31:58:12" end="00:32:02:13" tts:fontWeight="bold" region="bottom">have you say again is, I don't know how much we'll call NC state out specifically.</p>
+      <p begin="00:32:02:15" end="00:32:05:25" tts:fontWeight="bold" region="bottom">Um, could you just speak to, like, how</p>
+      <p begin="00:32:05:27" end="00:32:09:02" tts:fontWeight="bold" region="bottom">Raleigh was an attractive location to you, maybe, because</p>
+      <p begin="00:32:09:02" end="00:32:12:01" tts:fontWeight="bold" region="bottom">there's so much that you could be doing.</p>
+      <p begin="00:32:12:04" end="00:32:14:10" tts:fontWeight="bold" region="bottom">So you can have your little school.</p>
+      <p begin="00:32:14:12" end="00:32:17:13" tts:fontWeight="bold" region="bottom">That's what I hear a lot is like people can have a little school experience.</p>
+      <p begin="00:32:17:15" end="00:32:20:20" tts:fontWeight="bold" region="bottom">They can be a Meredith and then they can go tailgated NC State.</p>
+      <p begin="00:32:20:24" end="00:32:22:07" tts:fontWeight="bold" region="bottom">or go to the hockey games or whatever.</p>
+      <p begin="00:32:22:09" end="00:32:25:10" tts:fontWeight="bold" region="bottom">So I think maybe talk a little bit about and just</p>
+      <p begin="00:32:25:10" end="00:32:26:10" tts:fontWeight="bold" region="bottom">more vague.</p>
+      <p begin="00:32:26:13" end="00:32:28:12" tts:fontWeight="bold" region="bottom">Yeah, yeah, I get what you're saying.</p>
+      <p begin="00:32:28:17" end="00:32:29:13" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:32:36:23" end="00:32:36:29" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:32:37:02" end="00:32:40:08" tts:fontWeight="bold" region="bottom">So one thing that drew me to Meredith was the city of Raleigh.</p>
+      <p begin="00:32:40:10" end="00:32:43:15" tts:fontWeight="bold" region="bottom">There's so many things to do in Raleigh, whether it's on campus at Meredith</p>
+      <p begin="00:32:43:15" end="00:32:45:14" tts:fontWeight="bold" region="bottom">or within the city and surrounding area.</p>
+      <p begin="00:32:45:17" end="00:32:46:28" tts:fontWeight="bold" region="bottom">On the weekends.</p>
+      <p begin="00:32:47:00" end="00:32:50:01" tts:fontWeight="bold" region="bottom">You can go to NC State football games or go to the Carolina Hurricanes</p>
+      <p begin="00:32:50:02" end="00:32:53:08" tts:fontWeight="bold" region="bottom">hockey games as well as multiple street festivals throughout</p>
+      <p begin="00:32:53:09" end="00:32:55:08" tts:fontWeight="bold" region="bottom">the weekend and just...</p>
+      <p begin="00:32:56:09" end="00:32:56:25" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:33:02:28" end="00:33:03:23" tts:fontWeight="bold" region="bottom">Yeah</p>
+      <p begin="00:33:03:29" end="00:33:04:05" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:33:04:08" end="00:33:05:28" tts:fontWeight="bold" region="bottom">There truly is never...</p>
+      <p begin="00:33:07:22" end="00:33:10:27" tts:fontWeight="bold" region="bottom">If Grace Ledford were here, she'd be laughing at me.</p>
+      <p begin="00:33:12:00" end="00:33:13:06" tts:fontWeight="bold" region="bottom">We'll send her the table.</p>
+      <p begin="00:33:14:29" end="00:33:15:13" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:33:15:14" end="00:33:17:09" tts:fontWeight="bold" region="bottom">There truly is never a dull moment in Raleigh.</p>
+      <p begin="00:33:17:12" end="00:33:18:05" tts:fontWeight="bold" region="bottom">Love it.</p>
+      <p begin="00:33:18:15" end="00:33:18:28" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:33:19:03" end="00:33:22:23" tts:fontWeight="bold" region="bottom">Okay, so you came here to pursue,</p>
+      <p begin="00:33:22:24" end="00:33:26:17" tts:fontWeight="bold" region="bottom">obviously, your education and to be an athlete.</p>
+      <p begin="00:33:26:19" end="00:33:29:25" tts:fontWeight="bold" region="bottom">And tell me, um, I</p>
+      <p begin="00:33:29:25" end="00:33:33:26" tts:fontWeight="bold" region="bottom">don't know, I don't know if you could, if you can, sum up your</p>
+      <p begin="00:33:33:28" end="00:33:37:04" tts:fontWeight="bold" region="bottom">experience or give us, like, a little cliff notes version,</p>
+      <p begin="00:33:37:05" end="00:33:40:20" tts:fontWeight="bold" region="bottom">right, of what your experience was,</p>
+      <p begin="00:33:46:12" end="00:33:48:06" tts:fontWeight="bold" region="bottom">Um, but yeah, so what is it?</p>
+      <p begin="00:33:48:08" end="00:33:51:11" tts:fontWeight="bold" region="bottom">What's it like, what's it like to be a student athlete here?</p>
+      <p begin="00:33:51:13" end="00:33:54:14" tts:fontWeight="bold" region="bottom">I would say one word to describe it would be incredible.</p>
+      <p begin="00:33:54:17" end="00:33:57:16" tts:fontWeight="bold" region="bottom">Like you get so many opportunities in so many experiences that</p>
+      <p begin="00:33:57:17" end="00:33:59:07" tts:fontWeight="bold" region="bottom">you might not get at a bigger institution.</p>
+      <p begin="00:33:59:09" end="00:34:02:10" tts:fontWeight="bold" region="bottom">I was lucky to win 4 conference championships with</p>
+      <p begin="00:34:02:10" end="00:34:05:24" tts:fontWeight="bold" region="bottom">the lacrosse team, which was just an amazing experience.</p>
+      <p begin="00:34:05:24" end="00:34:08:23" tts:fontWeight="bold" region="bottom">And I think, you know, it's hard to win one championship, but you</p>
+      <p begin="00:34:08:24" end="00:34:10:18" tts:fontWeight="bold" region="bottom">get to say that I won 4 is just amazing.</p>
+      <p begin="00:34:10:20" end="00:34:13:23" tts:fontWeight="bold" region="bottom">Um, and you'll also be able to, you know, get</p>
+      <p begin="00:34:13:24" end="00:34:17:20" tts:fontWeight="bold" region="bottom">to know other student athletes throughout other clubs and experiences that you get as well.</p>
+      <p begin="00:34:17:23" end="00:34:20:22" tts:fontWeight="bold" region="bottom">But I think, you know, raising that trophy at the end of the year is</p>
+      <p begin="00:34:20:23" end="00:34:22:27" tts:fontWeight="bold" region="bottom">something that's really special and something that I'll always remember.</p>
+      <p begin="00:34:22:29" end="00:34:24:10" tts:fontWeight="bold" region="bottom">Love that.</p>
+      <p begin="00:34:25:02" end="00:34:28:17" tts:fontWeight="bold" region="bottom">Um, is it, you know, like, what were,</p>
+      <p begin="00:34:28:17" end="00:34:32:05" tts:fontWeight="bold" region="bottom">do you feel like what were some of the challenges maybe you had as a student athlete?</p>
+      <p begin="00:34:33:04" end="00:34:33:24" tts:fontWeight="bold" region="bottom">That's good question.</p>
+      <p begin="00:34:49:18" end="00:34:52:24" tts:fontWeight="bold" region="bottom">you know, I did, I put, okay, I know what I'm going to say now.</p>
+      <p begin="00:34:52:27" end="00:34:53:28" tts:fontWeight="bold" region="bottom">I put too much on my plate.</p>
+      <p begin="00:34:55:22" end="00:34:56:00" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:35:03:00" end="00:35:06:01" tts:fontWeight="bold" region="bottom">found myself a little overwhelmed by putting too much on my plate, wanting to do</p>
+      <p begin="00:35:06:02" end="00:35:09:25" tts:fontWeight="bold" region="bottom">every club and every work, every sporting event.</p>
+      <p begin="00:35:09:27" end="00:35:13:03" tts:fontWeight="bold" region="bottom">But I think that supported my professors and coaches</p>
+      <p begin="00:35:13:04" end="00:35:16:09" tts:fontWeight="bold" region="bottom">as well as athletic staff really helped me get through that and also just</p>
+      <p begin="00:35:16:09" end="00:35:19:24" tts:fontWeight="bold" region="bottom">showed me that I came here for a reason, then I do have the</p>
+      <p begin="00:35:19:25" end="00:35:22:28" tts:fontWeight="bold" region="bottom">opportunity to have those experiences, but also have the</p>
+      <p begin="00:35:22:29" end="00:35:25:14" tts:fontWeight="bold" region="bottom">free time to do other things in my social life.</p>
+      <p begin="00:35:27:05" end="00:35:30:10" tts:fontWeight="bold" region="bottom">What, um, if there was like advice or something</p>
+      <p begin="00:35:30:10" end="00:35:33:11" tts:fontWeight="bold" region="bottom">you could say, like say, I mean, obviously you're talking to prospective</p>
+      <p begin="00:35:33:12" end="00:35:36:27" tts:fontWeight="bold" region="bottom">students, what is something you'd want them to know,</p>
+      <p begin="00:35:36:28" end="00:35:40:28" tts:fontWeight="bold" region="bottom">um, about if they choose to come to, to be an athlete here.</p>
+      <p begin="00:35:41:00" end="00:35:44:01" tts:fontWeight="bold" region="bottom">I would say to take advantage of every opportunity.</p>
+      <p begin="00:35:44:02" end="00:35:46:26" tts:fontWeight="bold" region="bottom">You never know what life will throw at you.</p>
+      <p begin="00:35:46:28" end="00:35:49:27" tts:fontWeight="bold" region="bottom">And I was came into Meredith at the perfect time</p>
+      <p begin="00:35:49:28" end="00:35:53:03" tts:fontWeight="bold" region="bottom">where the communications building open with a TV studio and</p>
+      <p begin="00:35:53:03" end="00:35:55:13" tts:fontWeight="bold" region="bottom">at the time I was interested in being a sports broadcaster.</p>
+      <p begin="00:35:55:15" end="00:35:58:14" tts:fontWeight="bold" region="bottom">So, you know, I took that on and started wings up sports,</p>
+      <p begin="00:35:58:15" end="00:36:01:20" tts:fontWeight="bold" region="bottom">and I think, you know, those opportunities made me who I am, as</p>
+      <p begin="00:36:01:20" end="00:36:04:23" tts:fontWeight="bold" region="bottom">well as being the sack president, I was able to become a</p>
+      <p begin="00:36:04:24" end="00:36:07:25" tts:fontWeight="bold" region="bottom">strong leader here at Meredith, and it kind of changed my perspective</p>
+      <p begin="00:36:07:25" end="00:36:10:03" tts:fontWeight="bold" region="bottom">on what I really wanted to do after graduation.</p>
+      <p begin="00:36:10:05" end="00:36:13:08" tts:fontWeight="bold" region="bottom">I think, um, I came into Meredith, you know, wanting</p>
+      <p begin="00:36:13:09" end="00:36:16:10" tts:fontWeight="bold" region="bottom">to work for ESPN and then I, in 2025.</p>
+      <p begin="00:36:16:17" end="00:36:19:16" tts:fontWeight="bold" region="bottom">And once I graduated, I realized I wanted to have more of</p>
+      <p begin="00:36:19:17" end="00:36:21:07" tts:fontWeight="bold" region="bottom">an impact on the student athlete experience.</p>
+      <p begin="00:36:21:09" end="00:36:24:12" tts:fontWeight="bold" region="bottom">So I stayed and, you know, work hard every</p>
+      <p begin="00:36:24:12" end="00:36:27:22" tts:fontWeight="bold" region="bottom">day to make sure the student athletes have a great experience as well as I did.</p>
+      <p begin="00:36:28:14" end="00:36:30:15" tts:fontWeight="bold" region="bottom">So what, tell me a little bit about that.</p>
+      <p begin="00:36:30:19" end="00:36:33:18" tts:fontWeight="bold" region="bottom">Like what kind of got you to pivot and now</p>
+      <p begin="00:36:33:19" end="00:36:36:18" tts:fontWeight="bold" region="bottom">is coaching what you want to continue to do or do you still</p>
+      <p begin="00:36:36:19" end="00:36:40:07" tts:fontWeight="bold" region="bottom">have aspirations to do something in sports broadcasting?</p>
+      <p begin="00:36:40:09" end="00:36:42:29" tts:fontWeight="bold" region="bottom">Like, obviously, you're you're pretty fresh out of college still.</p>
+      <p begin="00:36:43:02" end="00:36:45:27" tts:fontWeight="bold" region="bottom">So like, what are, I guess, kind of your goals.</p>
+      <p begin="00:36:46:27" end="00:36:49:28" tts:fontWeight="bold" region="bottom">I think for right now, I definitely want to stay in coaching and</p>
+      <p begin="00:36:49:28" end="00:36:53:03" tts:fontWeight="bold" region="bottom">kind of, you know, like I said, work on the, um, work</p>
+      <p begin="00:36:53:03" end="00:36:56:04" tts:fontWeight="bold" region="bottom">on bettering the student athlete experience, but I think, you know,</p>
+      <p begin="00:36:56:05" end="00:36:59:10" tts:fontWeight="bold" region="bottom">I can, you know, attest and thank all of the,</p>
+      <p begin="00:37:00:27" end="00:37:02:07" tts:fontWeight="bold" region="bottom">um, we should, I'm going to say that again.</p>
+      <p begin="00:37:07:04" end="00:37:07:09" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:37:09:15" end="00:37:09:23" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:37:09:25" end="00:37:10:14" tts:fontWeight="bold" region="bottom">Yeah, go ahead.</p>
+      <p begin="00:37:10:19" end="00:37:12:19" tts:fontWeight="bold" region="bottom">I think I can.</p>
+      <p begin="00:37:16:09" end="00:37:18:19" tts:fontWeight="bold" region="bottom">I like, it's, it's all in my life.</p>
+      <p begin="00:37:18:23" end="00:37:20:04" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:37:22:27" end="00:37:24:08" tts:fontWeight="bold" region="bottom">A question I have for you.</p>
+      <p begin="00:37:24:10" end="00:37:25:11" tts:fontWeight="bold" region="bottom">maybe you can answer this better.</p>
+      <p begin="00:37:25:14" end="00:37:27:04" tts:fontWeight="bold" region="bottom">What do you feel like?</p>
+      <p begin="00:37:29:12" end="00:37:33:02" tts:fontWeight="bold" region="bottom">How do you think it's been an advantageous</p>
+      <p begin="00:37:33:03" end="00:37:36:02" tts:fontWeight="bold" region="bottom">for you to have been an athlete here?</p>
+      <p begin="00:37:36:04" end="00:37:38:12" tts:fontWeight="bold" region="bottom">And now you're on the coaching side.</p>
+      <p begin="00:37:38:14" end="00:37:40:25" tts:fontWeight="bold" region="bottom">So like, what do you think you're, you know, having that perspective?</p>
+      <p begin="00:37:40:28" end="00:37:43:14" tts:fontWeight="bold" region="bottom">Like, what do you think that helps you bring to your role?</p>
+      <p begin="00:37:43:19" end="00:37:46:18" tts:fontWeight="bold" region="bottom">Um, I think my experience as a</p>
+      <p begin="00:37:46:19" end="00:37:49:20" tts:fontWeight="bold" region="bottom">student athlete has like allowed me to become a better coach and just a better</p>
+      <p begin="00:37:49:20" end="00:37:52:25" tts:fontWeight="bold" region="bottom">person because of the experiences that I gain from</p>
+      <p begin="00:37:52:27" end="00:37:55:26" tts:fontWeight="bold" region="bottom">being on the field and being with my teammates and learning through</p>
+      <p begin="00:37:55:27" end="00:37:58:28" tts:fontWeight="bold" region="bottom">those hard moments definitely, um, helps me relate to</p>
+      <p begin="00:37:58:28" end="00:38:00:02" tts:fontWeight="bold" region="bottom">the student athletes better now.</p>
+      <p begin="00:38:00:04" end="00:38:03:07" tts:fontWeight="bold" region="bottom">And because I was in their shoes 2 years ago, I can, you</p>
+      <p begin="00:38:03:08" end="00:38:06:09" tts:fontWeight="bold" region="bottom">know, help them through those hard moments and motivate them every day and</p>
+      <p begin="00:38:06:09" end="00:38:09:08" tts:fontWeight="bold" region="bottom">show them that, you know, you can come out of this and have a great</p>
+      <p begin="00:38:09:09" end="00:38:10:09" tts:fontWeight="bold" region="bottom">experience overall.</p>
+      <p begin="00:38:11:24" end="00:38:14:29" tts:fontWeight="bold" region="bottom">How, um, I don't know if you could or want</p>
+      <p begin="00:38:15:00" end="00:38:18:25" tts:fontWeight="bold" region="bottom">to talk about, like, how has Coach Scott been a mentor for you?</p>
+      <p begin="00:38:19:00" end="00:38:22:01" tts:fontWeight="bold" region="bottom">Obviously you're still, you know, still in that relationship</p>
+      <p begin="00:38:22:02" end="00:38:23:16" tts:fontWeight="bold" region="bottom">and building that relationship.</p>
+      <p begin="00:38:23:19" end="00:38:24:20" tts:fontWeight="bold" region="bottom">Tell me about that.</p>
+      <p begin="00:38:24:23" end="00:38:28:08" tts:fontWeight="bold" region="bottom">I've known Coach Scott since 8th</p>
+      <p begin="00:38:28:09" end="00:38:30:09" tts:fontWeight="bold" region="bottom">or ninth grade, so a very long time.</p>
+      <p begin="00:38:31:18" end="00:38:34:18" tts:fontWeight="bold" region="bottom">Um, and she's just someone who, since day one, has</p>
+      <p begin="00:38:34:18" end="00:38:37:17" tts:fontWeight="bold" region="bottom">always pushed me to the best of my potential and,</p>
+      <p begin="00:38:37:18" end="00:38:39:29" tts:fontWeight="bold" region="bottom">you know, pushed me into those moments that I didn't even think I could reach.</p>
+      <p begin="00:38:40:02" end="00:38:43:01" tts:fontWeight="bold" region="bottom">Um, you know, being a student athlete, she was</p>
+      <p begin="00:38:43:02" end="00:38:46:08" tts:fontWeight="bold" region="bottom">someone who, you know, always pushed me on the field and showed</p>
+      <p begin="00:38:46:08" end="00:38:49:11" tts:fontWeight="bold" region="bottom">me that I can do these hard things and I have this potential inside</p>
+      <p begin="00:38:49:12" end="00:38:51:11" tts:fontWeight="bold" region="bottom">of me that, you know, I didn't think I had.</p>
+      <p begin="00:38:51:13" end="00:38:54:24" tts:fontWeight="bold" region="bottom">Um, I also think she's one of the people I can think for,</p>
+      <p begin="00:38:54:25" end="00:38:58:10" tts:fontWeight="bold" region="bottom">you know, wanting to come back and be, uh,</p>
+      <p begin="00:38:58:12" end="00:39:01:13" tts:fontWeight="bold" region="bottom">wanting to come back and work in college athletics because</p>
+      <p begin="00:39:01:13" end="00:39:04:23" tts:fontWeight="bold" region="bottom">I wanted to, you know, improve that student athlete experience and,</p>
+      <p begin="00:39:04:24" end="00:39:07:23" tts:fontWeight="bold" region="bottom">you know, leave my mark on the student athletes and, uh, she told</p>
+      <p begin="00:39:07:24" end="00:39:11:09" tts:fontWeight="bold" region="bottom">me, Okay.</p>
+      <p begin="00:39:11:12" end="00:39:14:17" tts:fontWeight="bold" region="bottom">Um, and during my freshman year,</p>
+      <p begin="00:39:14:17" end="00:39:17:16" tts:fontWeight="bold" region="bottom">um, I sat down with her and kind of asked her how I</p>
+      <p begin="00:39:17:17" end="00:39:20:20" tts:fontWeight="bold" region="bottom">could become more involved in the athletics department and</p>
+      <p begin="00:39:20:20" end="00:39:23:19" tts:fontWeight="bold" region="bottom">she told me I just need to put myself out there and I took her a</p>
+      <p begin="00:39:23:20" end="00:39:26:19" tts:fontWeight="bold" region="bottom">little too seriously, but, um, that's where I found myself taking</p>
+      <p begin="00:39:26:20" end="00:39:27:25" tts:fontWeight="bold" region="bottom">on anything and everything.</p>
+      <p begin="00:39:27:28" end="00:39:31:09" tts:fontWeight="bold" region="bottom">And I think those experiences really showed me that, um,</p>
+      <p begin="00:39:31:10" end="00:39:34:19" tts:fontWeight="bold" region="bottom">I do want to, you know, come back and work in</p>
+      <p begin="00:39:34:19" end="00:39:41:10" tts:fontWeight="bold" region="bottom">college athletics and, you know, make, uh, make</p>
+      <p begin="00:39:41:12" end="00:39:42:16" tts:fontWeight="bold" region="bottom">a difference for the students.</p>
+      <p begin="00:39:42:17" end="00:39:46:13" tts:fontWeight="bold" region="bottom">and make a positive impact on the student athletes who come through here.</p>
+      <p begin="00:39:49:28" end="00:39:51:29" tts:fontWeight="bold" region="bottom">I'm rolling again, so whenever.</p>
+      <p begin="00:39:52:01" end="00:39:53:00" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:39:53:01" end="00:39:56:19" tts:fontWeight="bold" region="bottom">I think it's really important in the college admission, when</p>
+      <p begin="00:39:56:20" end="00:39:57:24" tts:fontWeight="bold" region="bottom">choosing a college, okay.</p>
+      <p begin="00:39:58:14" end="00:39:58:15" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:39:58:18" end="00:40:01:21" tts:fontWeight="bold" region="bottom">I think it's really important when choosing a college to choose a place where people invest</p>
+      <p begin="00:40:01:21" end="00:40:04:27" tts:fontWeight="bold" region="bottom">in you, you know, whether it's 2 professors or your coaches</p>
+      <p begin="00:40:04:28" end="00:40:07:29" tts:fontWeight="bold" region="bottom">or even coaches within the athletic staff, that</p>
+      <p begin="00:40:08:00" end="00:40:09:21" tts:fontWeight="bold" region="bottom">was something that was really important in my experience.</p>
+      <p begin="00:40:09:24" end="00:40:12:25" tts:fontWeight="bold" region="bottom">And I think that was something that, you know, made me want to come back</p>
+      <p begin="00:40:12:25" end="00:40:14:06" tts:fontWeight="bold" region="bottom">and also become a coach.</p>
+      <p begin="00:40:14:09" end="00:40:17:10" tts:fontWeight="bold" region="bottom">But I think, you know, my relationships with my professors</p>
+      <p begin="00:40:17:10" end="00:40:20:09" tts:fontWeight="bold" region="bottom">and other coaches and our staff and Coach Scott and all of the</p>
+      <p begin="00:40:20:10" end="00:40:23:20" tts:fontWeight="bold" region="bottom">assistant coaches who were here when I was here, um, are just,</p>
+      <p begin="00:40:23:21" end="00:40:27:06" tts:fontWeight="bold" region="bottom">you know, important people in my life who like I look up to a lot and who,</p>
+      <p begin="00:40:27:06" end="00:40:30:07" tts:fontWeight="bold" region="bottom">um, I also want to become and people who are</p>
+      <p begin="00:40:30:09" end="00:40:31:18" tts:fontWeight="bold" region="bottom">just great role models for me.</p>
+      <p begin="00:40:32:16" end="00:40:33:07" tts:fontWeight="bold" region="bottom">That was good.</p>
+      <p begin="00:40:33:21" end="00:40:34:10" tts:fontWeight="bold" region="bottom">I loved it.</p>
+      <p begin="00:40:35:14" end="00:40:37:02" tts:fontWeight="bold" region="bottom">Was there anything else you wanted to add?</p>
+      <p begin="00:40:39:10" end="00:40:40:15" tts:fontWeight="bold" region="bottom">You definitely cover a lot.</p>
+      <p begin="00:40:42:00" end="00:40:43:11" tts:fontWeight="bold" region="bottom">Let's see what else this says.</p>
+      <p begin="00:40:44:09" end="00:40:45:25" tts:fontWeight="bold" region="bottom">Let's see what else, Lauren wrote down.</p>
+      <p begin="00:41:05:05" end="00:41:07:09" tts:fontWeight="bold" region="bottom">What position did you play when you were playing?</p>
+      <p begin="00:41:07:14" end="00:41:08:03" tts:fontWeight="bold" region="bottom">Midfield.</p>
+      <p begin="00:41:08:13" end="00:41:08:16" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:41:09:04" end="00:41:09:27" tts:fontWeight="bold" region="bottom">Lots of running.</p>
+      <p begin="00:41:12:05" end="00:41:12:19" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:41:12:21" end="00:41:15:17" tts:fontWeight="bold" region="bottom">I was watching the ladies yesterday.</p>
+      <p begin="00:41:15:20" end="00:41:16:25" tts:fontWeight="bold" region="bottom">They were hauling.</p>
+      <p begin="00:41:16:28" end="00:41:17:19" tts:fontWeight="bold" region="bottom">Lots of running.</p>
+      <p begin="00:41:17:21" end="00:41:18:10" tts:fontWeight="bold" region="bottom">Oh my gosh.</p>
+      <p begin="00:41:18:13" end="00:41:21:23" tts:fontWeight="bold" region="bottom">And when I played, like we only had, we played 2 midfielders.</p>
+      <p begin="00:41:21:24" end="00:41:24:18" tts:fontWeight="bold" region="bottom">And sometimes it was one, so it was just me running for 2 hours.</p>
+      <p begin="00:41:26:28" end="00:41:27:07" tts:fontWeight="bold" region="bottom">Gosh.</p>
+      <p begin="00:41:31:21" end="00:41:31:22" tts:fontWeight="bold" region="bottom">Mm.</p>
+      <p begin="00:41:49:21" end="00:41:50:28" tts:fontWeight="bold" region="bottom">Can you say and spell your name?</p>
+      <p begin="00:41:51:11" end="00:41:54:19" tts:fontWeight="bold" region="bottom">Yes, my name is Sierra, Grande, S</p>
+      <p begin="00:41:54:20" end="00:41:58:01" tts:fontWeight="bold" region="bottom">I E R R A, G R A N D E.</p>
+      <p begin="00:41:58:07" end="00:41:59:23" tts:fontWeight="bold" region="bottom">In your class of 2026?</p>
+      <p begin="00:41:59:24" end="00:42:01:09" tts:fontWeight="bold" region="bottom">I am the class of 2026.</p>
+      <p begin="00:42:01:15" end="00:42:02:17" tts:fontWeight="bold" region="bottom">And what's your major?</p>
+      <p begin="00:42:02:19" end="00:42:03:07" tts:fontWeight="bold" region="bottom">Any minors?</p>
+      <p begin="00:42:03:10" end="00:42:06:12" tts:fontWeight="bold" region="bottom">My major is health exercise in sports sciences,</p>
+      <p begin="00:42:06:12" end="00:42:08:17" tts:fontWeight="bold" region="bottom">and my concentration is in health and wellness.</p>
+      <p begin="00:42:08:21" end="00:42:09:01" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:42:11:17" end="00:42:11:19" tts:fontWeight="bold" region="bottom">Um...</p>
+      <p begin="00:42:13:06" end="00:42:15:15" tts:fontWeight="bold" region="bottom">All right, we'll go ahead and get started.</p>
+      <p begin="00:42:16:29" end="00:42:20:24" tts:fontWeight="bold" region="bottom">So, um, just to start us off.</p>
+      <p begin="00:42:21:05" end="00:42:24:27" tts:fontWeight="bold" region="bottom">Can you just briefly, like, on camera, introduce yourself,</p>
+      <p begin="00:42:24:27" end="00:42:29:04" tts:fontWeight="bold" region="bottom">and tell us a little bit about what you've been studying during your 4 years here in America?</p>
+      <p begin="00:42:29:15" end="00:42:31:28" tts:fontWeight="bold" region="bottom">Yeah, my name's Sierra Grande.</p>
+      <p begin="00:42:32:00" end="00:42:34:23" tts:fontWeight="bold" region="bottom">I been studying health exercise and sports sciences.</p>
+      <p begin="00:42:37:03" end="00:42:37:27" tts:fontWeight="bold" region="bottom">I...</p>
+      <p begin="00:42:37:28" end="00:42:38:09" tts:fontWeight="bold" region="bottom">Oh, perfect.</p>
+      <p begin="00:42:38:11" end="00:42:41:11" tts:fontWeight="bold" region="bottom">Okay, I've been studying health exercise in sports sciences.</p>
+      <p begin="00:42:41:12" end="00:42:44:12" tts:fontWeight="bold" region="bottom">I've got the opportunity, um, to work in our health human</p>
+      <p begin="00:42:44:12" end="00:42:47:16" tts:fontWeight="bold" region="bottom">performance lab, and also just spend time</p>
+      <p begin="00:42:47:16" end="00:42:50:16" tts:fontWeight="bold" region="bottom">in the lottery fitness center, um, where all of our classes have kind of</p>
+      <p begin="00:42:50:16" end="00:42:53:11" tts:fontWeight="bold" region="bottom">occurred in between our chest building and also the fitness center.</p>
+      <p begin="00:42:54:07" end="00:42:54:13" tts:fontWeight="bold" region="bottom">Awesome.</p>
+      <p begin="00:42:54:16" end="00:42:57:02" tts:fontWeight="bold" region="bottom">And what?</p>
+      <p begin="00:42:57:02" end="00:43:00:14" tts:fontWeight="bold" region="bottom">Can you tell me what originally drew you to the program here at Marin,</p>
+      <p begin="00:43:00:14" end="00:43:03:10" tts:fontWeight="bold" region="bottom">especially in the exercise sports science field?</p>
+      <p begin="00:43:03:12" end="00:43:06:28" tts:fontWeight="bold" region="bottom">Yeah, um, I think it might be one.</p>
+      <p begin="00:43:07:24" end="00:43:08:20" tts:fontWeight="bold" region="bottom">I think so.</p>
+      <p begin="00:43:08:22" end="00:43:09:12" tts:fontWeight="bold" region="bottom">I saw a little peek.</p>
+      <p begin="00:43:09:27" end="00:43:10:13" tts:fontWeight="bold" region="bottom">Sorry.</p>
+      <p begin="00:43:11:12" end="00:43:12:25" tts:fontWeight="bold" region="bottom">I was trying not to...</p>
+      <p begin="00:43:12:26" end="00:43:13:16" tts:fontWeight="bold" region="bottom">I pause for a second.</p>
+      <p begin="00:43:13:20" end="00:43:14:22" tts:fontWeight="bold" region="bottom">That's hilarious.</p>
+      <p begin="00:43:15:18" end="00:43:16:13" tts:fontWeight="bold" region="bottom">No camera.</p>
+      <p begin="00:43:16:15" end="00:43:17:16" tts:fontWeight="bold" region="bottom">Yeah, there's no camera.</p>
+      <p begin="00:43:17:27" end="00:43:18:20" tts:fontWeight="bold" region="bottom">What are you talking?</p>
+      <p begin="00:43:18:24" end="00:43:19:16" tts:fontWeight="bold" region="bottom">Just talking about Charlotte.</p>
+      <p begin="00:43:20:29" end="00:43:21:27" tts:fontWeight="bold" region="bottom">Okay, all right.</p>
+      <p begin="00:43:21:29" end="00:43:25:19" tts:fontWeight="bold" region="bottom">So, Ciara, go ahead and just give us a quick introduction</p>
+      <p begin="00:43:25:19" end="00:43:29:14" tts:fontWeight="bold" region="bottom">of yourself, and tell us about what you're studying and doing your marriage.</p>
+      <p begin="00:43:29:24" end="00:43:31:22" tts:fontWeight="bold" region="bottom">Yeah, my name's Sierra Grande.</p>
+      <p begin="00:43:31:24" end="00:43:35:14" tts:fontWeight="bold" region="bottom">I am a senior in the health exercise and sports sciences major.</p>
+      <p begin="00:43:35:15" end="00:43:37:11" tts:fontWeight="bold" region="bottom">In my time at Meredith,</p>
+      <p begin="00:43:37:13" end="00:43:40:18" tts:fontWeight="bold" region="bottom">I've got the opportunity to work in our health and human performance law,</p>
+      <p begin="00:43:40:18" end="00:43:42:26" tts:fontWeight="bold" region="bottom">where we're at right now, just running all of our lab equipment.</p>
+      <p begin="00:43:43:00" end="00:43:46:00" tts:fontWeight="bold" region="bottom">We have some really high tech, um, things in here, um,</p>
+      <p begin="00:43:46:00" end="00:43:49:04" tts:fontWeight="bold" region="bottom">like the bod pod, and we run resting</p>
+      <p begin="00:43:49:04" end="00:43:51:16" tts:fontWeight="bold" region="bottom">metabolic rate, and VO2 max testing.</p>
+      <p begin="00:43:51:17" end="00:43:54:10" tts:fontWeight="bold" region="bottom">So a lot of really cool opportunities in there, as well.</p>
+      <p begin="00:43:54:12" end="00:43:57:17" tts:fontWeight="bold" region="bottom">We've done a lot of classes over in the Lowery Fitness Center, too,</p>
+      <p begin="00:43:57:17" end="00:44:00:06" tts:fontWeight="bold" region="bottom">labs and things that have run in there, where we've got to work with.</p>
+      <p begin="00:44:00:08" end="00:44:01:28" tts:fontWeight="bold" region="bottom">Clients one on one, too.</p>
+      <p begin="00:44:02:00" end="00:44:05:00" tts:fontWeight="bold" region="bottom">And I've gotten to be a student athlete here on the</p>
+      <p begin="00:44:05:00" end="00:44:06:28" tts:fontWeight="bold" region="bottom">field hockey team as well at my time at Meredith.</p>
+      <p begin="00:44:07:09" end="00:44:07:21" tts:fontWeight="bold" region="bottom">Awesome.</p>
+      <p begin="00:44:08:20" end="00:44:12:17" tts:fontWeight="bold" region="bottom">So tell us a little bit about what, um, what</p>
+      <p begin="00:44:12:17" end="00:44:14:15" tts:fontWeight="bold" region="bottom">drew you to come to Meredith?</p>
+      <p begin="00:44:14:16" end="00:44:17:21" tts:fontWeight="bold" region="bottom">Like, how did you come to us, and specifically your major?</p>
+      <p begin="00:44:18:12" end="00:44:21:15" tts:fontWeight="bold" region="bottom">Yeah, so part of what drew me to Meredith was</p>
+      <p begin="00:44:21:15" end="00:44:25:14" tts:fontWeight="bold" region="bottom">my junior year of high school, I decided that I wanted to continue playing field hockey.</p>
+      <p begin="00:44:25:15" end="00:44:27:11" tts:fontWeight="bold" region="bottom">I hadn't considered playing collegiately at all.</p>
+      <p begin="00:44:27:11" end="00:44:30:22" tts:fontWeight="bold" region="bottom">I was, or I'm from State College, Pennsylvania, so</p>
+      <p begin="00:44:30:22" end="00:44:33:09" tts:fontWeight="bold" region="bottom">I'd never heard of Meredith, had never been to North Carolina.</p>
+      <p begin="00:44:33:11" end="00:44:36:07" tts:fontWeight="bold" region="bottom">So I heard of Meredith through a recruiting tournament.</p>
+      <p begin="00:44:36:09" end="00:44:39:09" tts:fontWeight="bold" region="bottom">They had a brand new NCAA field hockey program at</p>
+      <p begin="00:44:39:09" end="00:44:40:11" tts:fontWeight="bold" region="bottom">Meredith, and that drew me.</p>
+      <p begin="00:44:40:13" end="00:44:43:09" tts:fontWeight="bold" region="bottom">I wanted to be a part of the start of a new program.</p>
+      <p begin="00:44:43:11" end="00:44:46:20" tts:fontWeight="bold" region="bottom">So that's how I got connected, and as I did more research, I</p>
+      <p begin="00:44:46:20" end="00:44:49:29" tts:fontWeight="bold" region="bottom">learned more about Meredith, learned more about Raleigh, and also learned that they</p>
+      <p begin="00:44:56:11" end="00:44:59:15" tts:fontWeight="bold" region="bottom">So all the pieces fit into place, and that's how I ended up here.</p>
+      <p begin="00:44:59:17" end="00:45:00:14" tts:fontWeight="bold" region="bottom">That's awesome.</p>
+      <p begin="00:45:01:20" end="00:45:03:17" tts:fontWeight="bold" region="bottom">I always forget you were from Alp State, too.</p>
+      <p begin="00:45:03:19" end="00:45:04:02" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:45:04:03" end="00:45:06:04" tts:fontWeight="bold" region="bottom">Yeah, so that's awesome that you came here.</p>
+      <p begin="00:45:06:10" end="00:45:07:23" tts:fontWeight="bold" region="bottom">It is, it's a little bit obscure.</p>
+      <p begin="00:45:14:00" end="00:45:16:26" tts:fontWeight="bold" region="bottom">was, I mean, obviously, you said the building was a factor as well, right?</p>
+      <p begin="00:45:24:00" end="00:45:27:00" tts:fontWeight="bold" region="bottom">I mean, it really touches on any type of possible career</p>
+      <p begin="00:45:27:00" end="00:45:29:19" tts:fontWeight="bold" region="bottom">you could want in the health exercise in sports science field.</p>
+      <p begin="00:45:29:21" end="00:45:33:00" tts:fontWeight="bold" region="bottom">I still didn't know exactly what career I wanted yet, but</p>
+      <p begin="00:45:33:00" end="00:45:37:00" tts:fontWeight="bold" region="bottom">I knew that I at least had the major that I was on track to do.</p>
+      <p begin="00:45:37:02" end="00:45:38:15" tts:fontWeight="bold" region="bottom">So that's what worked out really nicely.</p>
+      <p begin="00:45:38:17" end="00:45:39:12" tts:fontWeight="bold" region="bottom">Perfect.</p>
+      <p begin="00:45:39:14" end="00:45:40:15" tts:fontWeight="bold" region="bottom">So all that lined up for you.</p>
+      <p begin="00:45:40:17" end="00:45:41:00" tts:fontWeight="bold" region="bottom">Mm hmm.</p>
+      <p begin="00:45:41:28" end="00:45:45:00" tts:fontWeight="bold" region="bottom">Um, okay, so I know, this</p>
+      <p begin="00:45:45:00" end="00:45:48:00" tts:fontWeight="bold" region="bottom">is some of the stuff that, um, Sanderson,</p>
+      <p begin="00:45:48:00" end="00:45:52:00" tts:fontWeight="bold" region="bottom">Dr. Mr. Sanderson said about you, and so</p>
+      <p begin="00:45:52:00" end="00:45:55:07" tts:fontWeight="bold" region="bottom">you, is this correct that you've, like, helped, like, helping people with chronic</p>
+      <p begin="00:45:55:07" end="00:45:58:14" tts:fontWeight="bold" region="bottom">disease or improving health outcomes</p>
+      <p begin="00:45:58:14" end="00:46:00:01" tts:fontWeight="bold" region="bottom">and things like that?</p>
+      <p begin="00:46:00:26" end="00:46:04:13" tts:fontWeight="bold" region="bottom">Like, when did you realize, like, I guess in that career vein, right?</p>
+      <p begin="00:46:04:14" end="00:46:07:16" tts:fontWeight="bold" region="bottom">Like, when did you realize you got into this major, you said you weren't</p>
+      <p begin="00:46:07:16" end="00:46:09:19" tts:fontWeight="bold" region="bottom">sure exactly where you wanted to go with it.</p>
+      <p begin="00:46:09:20" end="00:46:12:27" tts:fontWeight="bold" region="bottom">But how did you get to that point of like,</p>
+      <p begin="00:46:26:09" end="00:46:30:22" tts:fontWeight="bold" region="bottom">set us up for the American Council of exercises,</p>
+      <p begin="00:46:30:22" end="00:46:32:00" tts:fontWeight="bold" region="bottom">certified personal training exam.</p>
+      <p begin="00:46:32:01" end="00:46:34:24" tts:fontWeight="bold" region="bottom">And I never really wanted to be a personal trainer.</p>
+      <p begin="00:46:40:13" end="00:46:42:03" tts:fontWeight="bold" region="bottom">And through that certification,</p>
+      <p begin="00:46:42:05" end="00:46:45:07" tts:fontWeight="bold" region="bottom">I was able to start teaching in the working</p>
+      <p begin="00:46:45:07" end="00:46:48:09" tts:fontWeight="bold" region="bottom">on wellness faculty, wellness program,</p>
+      <p begin="00:46:54:23" end="00:46:57:18" tts:fontWeight="bold" region="bottom">of establish a client, personal training relationship.</p>
+      <p begin="00:46:57:19" end="00:47:00:24" tts:fontWeight="bold" region="bottom">And from there, I was able to work with people who had different clinical</p>
+      <p begin="00:47:00:24" end="00:47:04:05" tts:fontWeight="bold" region="bottom">conditions, and I realized how important exercise is</p>
+      <p begin="00:47:04:05" end="00:47:07:07" tts:fontWeight="bold" region="bottom">in mitigating the development of conditions or improving</p>
+      <p begin="00:47:07:07" end="00:47:09:03" tts:fontWeight="bold" region="bottom">outcomes of certain conditions.</p>
+      <p begin="00:47:09:04" end="00:47:10:08" tts:fontWeight="bold" region="bottom">So that was really cool.</p>
+      <p begin="00:47:10:10" end="00:47:12:04" tts:fontWeight="bold" region="bottom">I ended up finding a love for personal training.</p>
+      <p begin="00:47:12:06" end="00:47:17:03" tts:fontWeight="bold" region="bottom">I've been doing it for two years now and kind of established my own LLC with it.</p>
+      <p begin="00:47:17:05" end="00:47:20:17" tts:fontWeight="bold" region="bottom">So it's been really fun through that.</p>
+      <p begin="00:47:20:22" end="00:47:21:06" tts:fontWeight="bold" region="bottom">That's awesome.</p>
+      <p begin="00:47:27:06" end="00:47:28:03" tts:fontWeight="bold" region="bottom">For faculty?</p>
+      <p begin="00:47:28:04" end="00:47:28:09" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:47:28:11" end="00:47:29:13" tts:fontWeight="bold" region="bottom">Yeah, faculty and staff.</p>
+      <p begin="00:47:29:16" end="00:47:30:00" tts:fontWeight="bold" region="bottom">So restart.</p>
+      <p begin="00:47:30:00" end="00:47:34:06" tts:fontWeight="bold" region="bottom">You say, just say the, um,</p>
+      <p begin="00:47:34:06" end="00:47:36:00" tts:fontWeight="bold" region="bottom">I taught classes in the working on wellness.</p>
+      <p begin="00:47:36:00" end="00:47:38:03" tts:fontWeight="bold" region="bottom">Working on wellness, faculty, and staff.</p>
+      <p begin="00:47:38:03" end="00:47:40:28" tts:fontWeight="bold" region="bottom">Yeah, yeah, yeah, yeah, yeah.</p>
+      <p begin="00:47:41:12" end="00:47:41:13" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:47:41:15" end="00:47:41:28" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:47:41:28" end="00:47:43:26" tts:fontWeight="bold" region="bottom">They use less left out staff.</p>
+      <p begin="00:47:43:27" end="00:47:44:13" tts:fontWeight="bold" region="bottom">Okay, perfect.</p>
+      <p begin="00:47:44:15" end="00:47:45:07" tts:fontWeight="bold" region="bottom">go.</p>
+      <p begin="00:47:45:18" end="00:47:48:21" tts:fontWeight="bold" region="bottom">I taught classes through the working on wellness, faculty</p>
+      <p begin="00:47:48:21" end="00:47:50:02" tts:fontWeight="bold" region="bottom">and staff exercise program.</p>
+      <p begin="00:47:51:07" end="00:47:52:02" tts:fontWeight="bold" region="bottom">Did I say classes?</p>
+      <p begin="00:47:53:04" end="00:47:54:05" tts:fontWeight="bold" region="bottom">Did I say talk classes?</p>
+      <p begin="00:47:54:07" end="00:47:54:25" tts:fontWeight="bold" region="bottom">Classes?</p>
+      <p begin="00:47:55:06" end="00:47:55:29" tts:fontWeight="bold" region="bottom">Okay, perfect.</p>
+      <p begin="00:47:57:05" end="00:47:59:13" tts:fontWeight="bold" region="bottom">Um...</p>
+      <p begin="00:47:59:13" end="00:48:01:02" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:48:03:20" end="00:48:06:29" tts:fontWeight="bold" region="bottom">Tell us a little bit about your, um,</p>
+      <p begin="00:48:07:00" end="00:48:09:14" tts:fontWeight="bold" region="bottom">your research that you've gotten to do.</p>
+      <p begin="00:48:09:17" end="00:48:12:13" tts:fontWeight="bold" region="bottom">I know I just got to see your awesome presentation this week.</p>
+      <p begin="00:48:12:29" end="00:48:16:17" tts:fontWeight="bold" region="bottom">Um, CSA Day, so if you could just tell us a little bit about,</p>
+      <p begin="00:48:16:17" end="00:48:19:28" tts:fontWeight="bold" region="bottom">um, your research on, you know, muscular power and the menstrual</p>
+      <p begin="00:48:24:04" end="00:48:25:17" tts:fontWeight="bold" region="bottom">What made you want us to do that, I guess?</p>
+      <p begin="00:48:26:05" end="00:48:29:02" tts:fontWeight="bold" region="bottom">Yeah, so, um, the undergraduate research I did here.</p>
+      <p begin="00:48:29:03" end="00:48:32:03" tts:fontWeight="bold" region="bottom">I did it with my classmate and friend, Carly O'Toole,</p>
+      <p begin="00:48:32:03" end="00:48:35:05" tts:fontWeight="bold" region="bottom">and our junior year, we got the opportunity to kind</p>
+      <p begin="00:48:35:05" end="00:48:38:12" tts:fontWeight="bold" region="bottom">of explore different research ideas, and</p>
+      <p begin="00:48:38:12" end="00:48:40:22" tts:fontWeight="bold" region="bottom">with the potential development into real research.</p>
+      <p begin="00:48:40:24" end="00:48:43:24" tts:fontWeight="bold" region="bottom">So, we both were really interested in women's health, and</p>
+      <p begin="00:48:43:24" end="00:48:46:06" tts:fontWeight="bold" region="bottom">we're kind of looking at the menstrual cycle.</p>
+      <p begin="00:48:46:07" end="00:48:49:19" tts:fontWeight="bold" region="bottom">We both are athletes, and part about being an athlete is you don't</p>
+      <p begin="00:48:49:20" end="00:48:51:03" tts:fontWeight="bold" region="bottom">get the opportunity to develop your training plan.</p>
+      <p begin="00:48:51:07" end="00:48:55:06" tts:fontWeight="bold" region="bottom">You do, as you're told, like, practice, let me, I should not pause.</p>
+      <p begin="00:48:55:07" end="00:48:56:15" tts:fontWeight="bold" region="bottom">Let me not say that.</p>
+      <p begin="00:49:01:00" end="00:49:04:14" tts:fontWeight="bold" region="bottom">Like, you have a...</p>
+      <p begin="00:49:04:14" end="00:49:06:13" tts:fontWeight="bold" region="bottom">How do you say everybody's on the same practice schedule.</p>
+      <p begin="00:49:06:15" end="00:49:07:16" tts:fontWeight="bold" region="bottom">We can't develop our own.</p>
+      <p begin="00:49:07:18" end="00:49:09:08" tts:fontWeight="bold" region="bottom">This isn't me, this is me, like, passing up.</p>
+      <p begin="00:49:09:10" end="00:49:12:17" tts:fontWeight="bold" region="bottom">Basically, because what you're saying is, like, you can't decide when</p>
+      <p begin="00:49:12:17" end="00:49:14:29" tts:fontWeight="bold" region="bottom">in your cycle, you're going to have to do different things.</p>
+      <p begin="00:49:15:01" end="00:49:17:11" tts:fontWeight="bold" region="bottom">Yes, let me think of let me, like, talk about competition.</p>
+      <p begin="00:49:17:12" end="00:49:20:17" tts:fontWeight="bold" region="bottom">Like, you can't decide, you just compete when your game schedule is.</p>
+      <p begin="00:49:20:20" end="00:49:21:06" tts:fontWeight="bold" region="bottom">Exactly.</p>
+      <p begin="00:49:21:06" end="00:49:21:17" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:49:21:18" end="00:49:22:10" tts:fontWeight="bold" region="bottom">Perfect.</p>
+      <p begin="00:49:22:12" end="00:49:23:11" tts:fontWeight="bold" region="bottom">Redo.</p>
+      <p begin="00:49:23:12" end="00:49:25:01" tts:fontWeight="bold" region="bottom">And we would be like, you do as you're told.</p>
+      <p begin="00:49:26:18" end="00:49:27:13" tts:fontWeight="bold" region="bottom">We're not doing that.</p>
+      <p begin="00:49:27:19" end="00:49:29:06" tts:fontWeight="bold" region="bottom">Okay, perfect.</p>
+      <p begin="00:49:29:08" end="00:49:29:20" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:49:31:13" end="00:49:34:18" tts:fontWeight="bold" region="bottom">So part of being a student athlete is our</p>
+      <p begin="00:49:34:19" end="00:49:37:26" tts:fontWeight="bold" region="bottom">competition schedule doesn't always line up with our menstrual cycle,</p>
+      <p begin="00:49:43:13" end="00:49:46:13" tts:fontWeight="bold" region="bottom">So me and Carly were able to develop this research and implement it</p>
+      <p begin="00:49:46:13" end="00:49:49:22" tts:fontWeight="bold" region="bottom">on both students and alum from Meredith College,</p>
+      <p begin="00:49:49:22" end="00:49:52:08" tts:fontWeight="bold" region="bottom">and a lot of people were really interested in being a part of it.</p>
+      <p begin="00:49:52:11" end="00:49:55:11" tts:fontWeight="bold" region="bottom">So we tested upper and lower body muscular</p>
+      <p begin="00:49:55:11" end="00:49:58:23" tts:fontWeight="bold" region="bottom">power and endurance at the four different phases of the menstrual cycle.</p>
+      <p begin="00:50:05:02" end="00:50:07:05" tts:fontWeight="bold" region="bottom">was actually hindered when you're menstruating.</p>
+      <p begin="00:50:07:09" end="00:50:10:14" tts:fontWeight="bold" region="bottom">But we didn't find statistical significance,</p>
+      <p begin="00:50:10:14" end="00:50:13:14" tts:fontWeight="bold" region="bottom">so that does show that performance isn't hindered,</p>
+      <p begin="00:50:13:14" end="00:50:17:04" tts:fontWeight="bold" region="bottom">which is an encouraging aspect, even if we don't always feel great.</p>
+      <p begin="00:50:17:05" end="00:50:20:10" tts:fontWeight="bold" region="bottom">It does show that it may be okay,</p>
+      <p begin="00:50:20:11" end="00:50:23:00" tts:fontWeight="bold" region="bottom">and that we still can perform, um, to the best of our abilities.</p>
+      <p begin="00:50:23:01" end="00:50:23:16" tts:fontWeight="bold" region="bottom">Awesome.</p>
+      <p begin="00:50:24:19" end="00:50:27:20" tts:fontWeight="bold" region="bottom">I mean, just, is there anything you want to say or add about</p>
+      <p begin="00:50:27:20" end="00:50:31:23" tts:fontWeight="bold" region="bottom">just the opportunity to do, that type of research as an</p>
+      <p begin="00:50:31:23" end="00:50:35:01" tts:fontWeight="bold" region="bottom">undergrad student, you know, versus at other schools where that</p>
+      <p begin="00:50:35:01" end="00:50:37:06" tts:fontWeight="bold" region="bottom">might not be an opportunity that they would get.</p>
+      <p begin="00:50:37:19" end="00:50:40:17" tts:fontWeight="bold" region="bottom">Yeah, there was a really great opportunity to do undergraduate research.</p>
+      <p begin="00:50:40:18" end="00:50:43:22" tts:fontWeight="bold" region="bottom">Every student, at least in our department, has</p>
+      <p begin="00:50:43:22" end="00:50:46:22" tts:fontWeight="bold" region="bottom">the opportunity to do it, and develop it, and it was</p>
+      <p begin="00:50:53:01" end="00:50:55:22" tts:fontWeight="bold" region="bottom">We ran all of our participants through the bod pot, every session we tested.</p>
+      <p begin="00:50:55:23" end="00:50:58:25" tts:fontWeight="bold" region="bottom">We also got to use our EMG cart, which looks at</p>
+      <p begin="00:50:58:25" end="00:51:01:29" tts:fontWeight="bold" region="bottom">muscle activation, which was also a really cool thing.</p>
+      <p begin="00:51:02:00" end="00:51:05:14" tts:fontWeight="bold" region="bottom">So just the opportunity to learn how to run this equipment that a</p>
+      <p begin="00:51:05:15" end="00:51:08:22" tts:fontWeight="bold" region="bottom">lot of students at other universities probably wouldn't see your touch until</p>
+      <p begin="00:51:14:29" end="00:51:16:18" tts:fontWeight="bold" region="bottom">these experiences that are my belt.</p>
+      <p begin="00:51:16:19" end="00:51:17:11" tts:fontWeight="bold" region="bottom">That's great.</p>
+      <p begin="00:51:18:20" end="00:51:19:04" tts:fontWeight="bold" region="bottom">All right.</p>
+      <p begin="00:51:21:13" end="00:51:21:26" tts:fontWeight="bold" region="bottom">Let's see.</p>
+      <p begin="00:51:24:28" end="00:51:28:01" tts:fontWeight="bold" region="bottom">So, I know one of the thing, another thing that you've</p>
+      <p begin="00:51:28:01" end="00:51:31:08" tts:fontWeight="bold" region="bottom">done, had a lot of is leadership roles.</p>
+      <p begin="00:51:31:17" end="00:51:34:26" tts:fontWeight="bold" region="bottom">Um, and were you captain about the field hockey team?</p>
+      <p begin="00:51:34:28" end="00:51:38:02" tts:fontWeight="bold" region="bottom">Okay, so you have that, I know you've been in the fitness center.</p>
+      <p begin="00:51:38:03" end="00:51:39:11" tts:fontWeight="bold" region="bottom">You've had all these different roles.</p>
+      <p begin="00:51:40:08" end="00:51:43:11" tts:fontWeight="bold" region="bottom">Um, you know, how, what does that kind</p>
+      <p begin="00:51:43:11" end="00:51:46:11" tts:fontWeight="bold" region="bottom">of taught you about being a leader</p>
+      <p begin="00:51:52:13" end="00:51:55:16" tts:fontWeight="bold" region="bottom">Yeah, um, I have had the opportunity for a lot of leadership</p>
+      <p begin="00:51:55:16" end="00:51:59:00" tts:fontWeight="bold" region="bottom">positions while on campus, um, including being our the</p>
+      <p begin="00:51:59:00" end="00:52:02:05" tts:fontWeight="bold" region="bottom">field hockey team captain for two years, um, serving as the student</p>
+      <p begin="00:52:09:06" end="00:52:12:13" tts:fontWeight="bold" region="bottom">And being getting to be a leader in these roles</p>
+      <p begin="00:52:12:13" end="00:52:15:17" tts:fontWeight="bold" region="bottom">showed me how important and special it</p>
+      <p begin="00:52:27:02" end="00:52:29:05" tts:fontWeight="bold" region="bottom">I think that's a huge thing that was able to be developed.</p>
+      <p begin="00:52:29:07" end="00:52:32:14" tts:fontWeight="bold" region="bottom">How do you hold people accountable, kindly, um, but also set</p>
+      <p begin="00:52:32:14" end="00:52:35:23" tts:fontWeight="bold" region="bottom">expectations, um, for the people around you, and I think there's</p>
+      <p begin="00:52:35:23" end="00:52:37:26" tts:fontWeight="bold" region="bottom">also knowing how to uplift people and encourage them.</p>
+      <p begin="00:52:37:27" end="00:52:40:29" tts:fontWeight="bold" region="bottom">I think that's the most important part about being a leader, and something I learned</p>
+      <p begin="00:52:40:29" end="00:52:43:29" tts:fontWeight="bold" region="bottom">that discipline and enforcement can only get</p>
+      <p begin="00:52:43:29" end="00:52:47:01" tts:fontWeight="bold" region="bottom">you so far, but if you develop respect and encourage those around you,</p>
+      <p begin="00:52:47:03" end="00:52:50:14" tts:fontWeight="bold" region="bottom">Um, that's, like, the key to being the best leader, in my opinion.</p>
+      <p begin="00:52:50:15" end="00:52:51:17" tts:fontWeight="bold" region="bottom">Love that.</p>
+      <p begin="00:52:52:18" end="00:52:55:18" tts:fontWeight="bold" region="bottom">All right, so, tell us</p>
+      <p begin="00:52:55:18" end="00:52:59:17" tts:fontWeight="bold" region="bottom">a little bit about this new gig you're gonna be, uh, going off to.</p>
+      <p begin="00:52:59:18" end="00:53:02:25" tts:fontWeight="bold" region="bottom">If you want to just tell us a little bit about, like, what maybe</p>
+      <p begin="00:53:02:25" end="00:53:05:25" tts:fontWeight="bold" region="bottom">give us, like, what the position is, and,</p>
+      <p begin="00:53:06:04" end="00:53:07:21" tts:fontWeight="bold" region="bottom">like, what does the role entail?</p>
+      <p begin="00:53:07:21" end="00:53:08:22" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:53:08:23" end="00:53:12:00" tts:fontWeight="bold" region="bottom">And do you want, I don't know if this is interesting or not, but, like, the development</p>
+      <p begin="00:53:12:01" end="00:53:15:01" tts:fontWeight="bold" region="bottom">of, so, through that certification I gained, and through</p>
+      <p begin="00:53:15:01" end="00:53:18:08" tts:fontWeight="bold" region="bottom">experiences that, wow, I started teaching at the UNC Wanna centers, teaching</p>
+      <p begin="00:53:18:08" end="00:53:22:10" tts:fontWeight="bold" region="bottom">classes, and then from there, I was able to get a connection with interning, and then this role.</p>
+      <p begin="00:53:22:12" end="00:53:23:07" tts:fontWeight="bold" region="bottom">So I don't know if that.</p>
+      <p begin="00:53:23:21" end="00:53:25:26" tts:fontWeight="bold" region="bottom">Okay, so the internship led to the position.</p>
+      <p begin="00:53:26:00" end="00:53:27:01" tts:fontWeight="bold" region="bottom">Yes, yes.</p>
+      <p begin="00:53:27:02" end="00:53:29:23" tts:fontWeight="bold" region="bottom">More sort of like a circuitous route, right?</p>
+      <p begin="00:53:29:26" end="00:53:31:20" tts:fontWeight="bold" region="bottom">Of, like, you did the personal training stuff.</p>
+      <p begin="00:53:31:22" end="00:53:32:28" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:53:33:00" end="00:53:34:22" tts:fontWeight="bold" region="bottom">But I wouldn't have got the internship.</p>
+      <p begin="00:53:34:26" end="00:53:37:01" tts:fontWeight="bold" region="bottom">This was like a, they just created this internship for me.</p>
+      <p begin="00:53:37:02" end="00:53:37:25" tts:fontWeight="bold" region="bottom">It was like a whole thing.</p>
+      <p begin="00:53:37:27" end="00:53:39:05" tts:fontWeight="bold" region="bottom">I needed an internship last minute.</p>
+      <p begin="00:53:40:02" end="00:53:41:06" tts:fontWeight="bold" region="bottom">But it's because I taught classes there.</p>
+      <p begin="00:53:41:08" end="00:53:44:04" tts:fontWeight="bold" region="bottom">I don't know if that's too long down the line, but</p>
+      <p begin="00:53:44:13" end="00:53:45:03" tts:fontWeight="bold" region="bottom">Okay, so hold on.</p>
+      <p begin="00:53:45:05" end="00:53:47:03" tts:fontWeight="bold" region="bottom">Just trying to follow your map.</p>
+      <p begin="00:53:47:27" end="00:53:48:11" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:53:49:01" end="00:53:49:20" tts:fontWeight="bold" region="bottom">Of activities.</p>
+      <p begin="00:53:49:22" end="00:53:51:00" tts:fontWeight="bold" region="bottom">So you got certified?</p>
+      <p begin="00:53:51:03" end="00:53:51:16" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:53:51:17" end="00:53:53:02" tts:fontWeight="bold" region="bottom">Then you started teaching classes there.</p>
+      <p begin="00:53:54:01" end="00:53:57:01" tts:fontWeight="bold" region="bottom">Then you needed an internship and they</p>
+      <p begin="00:53:57:01" end="00:54:00:03" tts:fontWeight="bold" region="bottom">liked you, you had a good reputation there.</p>
+      <p begin="00:54:00:05" end="00:54:01:16" tts:fontWeight="bold" region="bottom">developed the intern.</p>
+      <p begin="00:54:01:18" end="00:54:02:10" tts:fontWeight="bold" region="bottom">They said, okay, great.</p>
+      <p begin="00:54:02:11" end="00:54:03:12" tts:fontWeight="bold" region="bottom">And they made you an intern.</p>
+      <p begin="00:54:03:13" end="00:54:03:29" tts:fontWeight="bold" region="bottom">Yep.</p>
+      <p begin="00:54:04:01" end="00:54:05:23" tts:fontWeight="bold" region="bottom">And then they made up an internship for you.</p>
+      <p begin="00:54:05:25" end="00:54:06:29" tts:fontWeight="bold" region="bottom">Yeah, got the role.</p>
+      <p begin="00:54:07:01" end="00:54:07:21" tts:fontWeight="bold" region="bottom">are working there.</p>
+      <p begin="00:54:11:22" end="00:54:13:00" tts:fontWeight="bold" region="bottom">is so exciting.</p>
+      <p begin="00:54:13:03" end="00:54:16:03" tts:fontWeight="bold" region="bottom">It's kind of crazy you're starting before graduation.</p>
+      <p begin="00:54:16:05" end="00:54:16:25" tts:fontWeight="bold" region="bottom">I know.</p>
+      <p begin="00:54:18:11" end="00:54:19:09" tts:fontWeight="bold" region="bottom">Like, oh, gosh.</p>
+      <p begin="00:54:19:10" end="00:54:19:23" tts:fontWeight="bold" region="bottom">Hold on.</p>
+      <p begin="00:54:19:27" end="00:54:20:25" tts:fontWeight="bold" region="bottom">It's gonna be good though.</p>
+      <p begin="00:54:20:27" end="00:54:21:17" tts:fontWeight="bold" region="bottom">It's gonna be good.</p>
+      <p begin="00:54:22:00" end="00:54:22:19" tts:fontWeight="bold" region="bottom">It's gonna be great.</p>
+      <p begin="00:54:22:21" end="00:54:23:00" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:54:23:01" end="00:54:26:12" tts:fontWeight="bold" region="bottom">So I guess if you want to just talk about,</p>
+      <p begin="00:54:26:12" end="00:54:29:16" tts:fontWeight="bold" region="bottom">I think, yeah, just give a quick little, you</p>
+      <p begin="00:54:35:27" end="00:54:35:28" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:54:36:00" end="00:54:36:18" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:54:37:15" end="00:54:39:04" tts:fontWeight="bold" region="bottom">So okay, I'm trying to think how to start it.</p>
+      <p begin="00:54:39:05" end="00:54:43:00" tts:fontWeight="bold" region="bottom">Okay, so tell just, um, Tell,</p>
+      <p begin="00:54:43:00" end="00:54:45:17" tts:fontWeight="bold" region="bottom">I think first, I just want you to tell us, like, what are you doing?</p>
+      <p begin="00:54:45:19" end="00:54:45:26" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:54:45:27" end="00:54:48:16" tts:fontWeight="bold" region="bottom">What position are you going into?</p>
+      <p begin="00:54:48:23" end="00:54:51:19" tts:fontWeight="bold" region="bottom">And then a little bit about what the role is.</p>
+      <p begin="00:54:58:03" end="00:55:00:19" tts:fontWeight="bold" region="bottom">I don't know, like however you want to lead into that, does that make sense?</p>
+      <p begin="00:55:00:21" end="00:55:01:16" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:55:01:18" end="00:55:01:28" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:55:02:03" end="00:55:05:04" tts:fontWeight="bold" region="bottom">And also, there's my manager is a Meredith</p>
+      <p begin="00:55:05:04" end="00:55:07:18" tts:fontWeight="bold" region="bottom">Alum, so we could talk about connections a little bit.</p>
+      <p begin="00:55:08:09" end="00:55:09:01" tts:fontWeight="bold" region="bottom">if that, I don't know about.</p>
+      <p begin="00:55:09:02" end="00:55:09:18" tts:fontWeight="bold" region="bottom">Did she graduate?</p>
+      <p begin="00:55:09:20" end="00:55:10:12" tts:fontWeight="bold" region="bottom">2014.</p>
+      <p begin="00:55:10:17" end="00:55:11:16" tts:fontWeight="bold" region="bottom">That's awesome.</p>
+      <p begin="00:55:11:18" end="00:55:13:21" tts:fontWeight="bold" region="bottom">Who was your who was your, um, mentor?</p>
+      <p begin="00:55:14:03" end="00:55:15:10" tts:fontWeight="bold" region="bottom">Oh, Eliza Jones?</p>
+      <p begin="00:55:15:11" end="00:55:16:26" tts:fontWeight="bold" region="bottom">I think she used to be Eliza Evans.</p>
+      <p begin="00:55:17:00" end="00:55:18:15" tts:fontWeight="bold" region="bottom">Mm hmm.</p>
+      <p begin="00:55:19:28" end="00:55:22:28" tts:fontWeight="bold" region="bottom">She would have been one of my first classes when I was here.</p>
+      <p begin="00:55:23:14" end="00:55:24:00" tts:fontWeight="bold" region="bottom">Aw.</p>
+      <p begin="00:55:24:00" end="00:55:24:11" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:55:24:24" end="00:55:25:10" tts:fontWeight="bold" region="bottom">Crazy.</p>
+      <p begin="00:55:25:12" end="00:55:25:16" tts:fontWeight="bold" region="bottom">Time plus.</p>
+      <p begin="00:55:26:03" end="00:55:29:07" tts:fontWeight="bold" region="bottom">Um, okay, so go ahead and tell us about your new job,</p>
+      <p begin="00:55:38:15" end="00:55:41:22" tts:fontWeight="bold" region="bottom">So in my position, I'll be serving the</p>
+      <p begin="00:55:41:22" end="00:55:45:13" tts:fontWeight="bold" region="bottom">two wellness centers in Northwest Kerry and Chapel Hill, and</p>
+      <p begin="00:55:51:19" end="00:55:54:24" tts:fontWeight="bold" region="bottom">their childcare services, on campus, and I</p>
+      <p begin="00:55:54:25" end="00:55:58:18" tts:fontWeight="bold" region="bottom">was able to intern there before getting hired for the role.</p>
+      <p begin="00:55:58:20" end="00:56:01:25" tts:fontWeight="bold" region="bottom">So, I actually got to learn some of the jobs that I'm going to be doing in</p>
+      <p begin="00:56:01:25" end="00:56:04:25" tts:fontWeight="bold" region="bottom">this role, and kind of get my foot on the door, and from there,</p>
+      <p begin="00:56:04:25" end="00:56:08:20" tts:fontWeight="bold" region="bottom">I was able to apply for the job when it opened up, which was perfect.</p>
+      <p begin="00:56:08:22" end="00:56:11:29" tts:fontWeight="bold" region="bottom">And also, there's Meredith Alum, who work at</p>
+      <p begin="00:56:11:29" end="00:56:14:07" tts:fontWeight="bold" region="bottom">the wellness center, so that was a really strong connection, too.</p>
+      <p begin="00:56:14:09" end="00:56:16:10" tts:fontWeight="bold" region="bottom">They know the type of program I'm coming from.</p>
+      <p begin="00:56:16:12" end="00:56:19:28" tts:fontWeight="bold" region="bottom">There's a graduate from the same program I'm in right now, so definitely</p>
+      <p begin="00:56:19:28" end="00:56:23:00" tts:fontWeight="bold" region="bottom">the connections through Meredith was really helpful in</p>
+      <p begin="00:56:23:00" end="00:56:25:01" tts:fontWeight="bold" region="bottom">just the application process here, too.</p>
+      <p begin="00:56:25:25" end="00:56:26:11" tts:fontWeight="bold" region="bottom">That's awesome.</p>
+      <p begin="00:56:27:19" end="00:56:28:24" tts:fontWeight="bold" region="bottom">All right, let's see.</p>
+      <p begin="00:56:30:14" end="00:56:32:21" tts:fontWeight="bold" region="bottom">Um...</p>
+      <p begin="00:56:34:17" end="00:56:34:24" tts:fontWeight="bold" region="bottom">Alright.</p>
+      <p begin="00:56:39:23" end="00:56:40:26" tts:fontWeight="bold" region="bottom">Is there any...</p>
+      <p begin="00:56:42:25" end="00:56:46:00" tts:fontWeight="bold" region="bottom">I guess, reflection or statement you'd want to make just about how you've</p>
+      <p begin="00:56:46:00" end="00:56:49:14" tts:fontWeight="bold" region="bottom">grown during your time here at Meredith, like, thinking of yourself when,</p>
+      <p begin="00:56:49:14" end="00:56:53:02" tts:fontWeight="bold" region="bottom">you know, Ciara, who came in as a freshman and where you are now?</p>
+      <p begin="00:56:53:04" end="00:56:54:03" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:56:54:05" end="00:56:57:05" tts:fontWeight="bold" region="bottom">Like, what are kind of the, um, what are</p>
+      <p begin="00:56:57:05" end="00:56:59:19" tts:fontWeight="bold" region="bottom">some of the things you're most proud of that you've accomplished?</p>
+      <p begin="00:57:00:01" end="00:57:03:06" tts:fontWeight="bold" region="bottom">Yeah, I think some of the things I'm most proud of in my time here</p>
+      <p begin="00:57:03:06" end="00:57:06:13" tts:fontWeight="bold" region="bottom">is just how I've grown as a leader, how</p>
+      <p begin="00:57:06:13" end="00:57:10:04" tts:fontWeight="bold" region="bottom">I've developed my interests and pursued everything that I was interested in.</p>
+      <p begin="00:57:10:08" end="00:57:13:12" tts:fontWeight="bold" region="bottom">I think that's a huge difference between college and high school, is sometimes,</p>
+      <p begin="00:57:19:17" end="00:57:22:26" tts:fontWeight="bold" region="bottom">I did, I was incredibly invested in, and I think that is the</p>
+      <p begin="00:57:22:26" end="00:57:26:16" tts:fontWeight="bold" region="bottom">greatest thing you can do, is just find what you love, and maximize</p>
+      <p begin="00:57:32:17" end="00:57:35:19" tts:fontWeight="bold" region="bottom">I focused on the smaller, or a couple things that I really loved,</p>
+      <p begin="00:57:35:19" end="00:57:38:23" tts:fontWeight="bold" region="bottom">rather than doing everything I possibly could, and I think that's</p>
+      <p begin="00:57:44:12" end="00:57:44:26" tts:fontWeight="bold" region="bottom">Awesome.</p>
+      <p begin="00:57:45:14" end="00:57:46:24" tts:fontWeight="bold" region="bottom">That's great answer.</p>
+      <p begin="00:57:49:06" end="00:57:52:11" tts:fontWeight="bold" region="bottom">Okay, so some of these are just sort of general questions</p>
+      <p begin="00:57:52:11" end="00:57:53:17" tts:fontWeight="bold" region="bottom">as well.</p>
+      <p begin="00:57:53:19" end="00:57:56:24" tts:fontWeight="bold" region="bottom">I don't know if this will go in your video, or if this will be something else that I use</p>
+      <p begin="00:58:10:14" end="00:58:13:17" tts:fontWeight="bold" region="bottom">Yeah, I think if I was to say something to</p>
+      <p begin="00:58:13:17" end="00:58:17:19" tts:fontWeight="bold" region="bottom">a prospective student, I would want them to consider what</p>
+      <p begin="00:58:24:00" end="00:58:27:00" tts:fontWeight="bold" region="bottom">it will be, and think about all the things that matter to you that you want</p>
+      <p begin="00:58:27:00" end="00:58:30:11" tts:fontWeight="bold" region="bottom">to see on that campus, and in the program itself, and</p>
+      <p begin="00:58:30:11" end="00:58:32:28" tts:fontWeight="bold" region="bottom">let that guide your decision, because that's the most important part.</p>
+      <p begin="00:58:33:02" end="00:58:36:29" tts:fontWeight="bold" region="bottom">If you can't make your campus feel like home, then it's hard to ever get settled.</p>
+      <p begin="00:58:37:00" end="00:58:40:27" tts:fontWeight="bold" region="bottom">So that's the greatest thing I did, too, was making it</p>
+      <p begin="00:58:40:27" end="00:58:43:14" tts:fontWeight="bold" region="bottom">feel like home, and that's what really made my experience great.</p>
+      <p begin="00:58:44:03" end="00:58:44:26" tts:fontWeight="bold" region="bottom">Did you live on campus?</p>
+      <p begin="00:58:45:04" end="00:58:45:17" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:58:45:19" end="00:58:46:02" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:58:46:04" end="00:58:46:11" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="00:58:46:13" end="00:58:46:24" tts:fontWeight="bold" region="bottom">Nice.</p>
+      <p begin="00:58:46:25" end="00:58:50:09" tts:fontWeight="bold" region="bottom">But honestly, it was the second I lived off campus, it was a lot better.</p>
+      <p begin="00:58:50:13" end="00:58:52:18" tts:fontWeight="bold" region="bottom">It was, like, a separation, but in the best way.</p>
+      <p begin="00:58:52:20" end="00:58:53:15" tts:fontWeight="bold" region="bottom">In a good way.</p>
+      <p begin="00:58:53:17" end="00:58:55:27" tts:fontWeight="bold" region="bottom">And it made, like, Raleigh feel more like home too.</p>
+      <p begin="00:58:55:29" end="00:58:56:17" tts:fontWeight="bold" region="bottom">Yes.</p>
+      <p begin="00:58:56:17" end="00:58:58:13" tts:fontWeight="bold" region="bottom">I had to stay in the air.</p>
+      <p begin="00:58:58:16" end="00:58:59:08" tts:fontWeight="bold" region="bottom">Yeah, right.</p>
+      <p begin="00:58:59:09" end="00:58:59:22" tts:fontWeight="bold" region="bottom">Exactly.</p>
+      <p begin="00:58:59:24" end="00:59:00:14" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:59:02:06" end="00:59:02:15" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="00:59:05:09" end="00:59:08:27" tts:fontWeight="bold" region="bottom">All right, this is also one I'm messing</p>
+      <p begin="00:59:08:27" end="00:59:11:00" tts:fontWeight="bold" region="bottom">with another video that I want to do.</p>
+      <p begin="00:59:11:02" end="00:59:14:04" tts:fontWeight="bold" region="bottom">But, um, tell me, what is it?</p>
+      <p begin="00:59:14:05" end="00:59:17:16" tts:fontWeight="bold" region="bottom">What's it really like going to a women's college in all of them to watch?</p>
+      <p begin="00:59:17:20" end="00:59:19:12" tts:fontWeight="bold" region="bottom">Yeah, that's such a great</p>
+      <p begin="00:59:20:00" end="00:59:21:01" tts:fontWeight="bold" region="bottom">It's such a great question.</p>
+      <p begin="00:59:21:02" end="00:59:24:02" tts:fontWeight="bold" region="bottom">And in all honesty, when I came to camp,</p>
+      <p begin="00:59:24:02" end="00:59:27:06" tts:fontWeight="bold" region="bottom">or when I was making this decision before coming to campus, it was a con for me.</p>
+      <p begin="00:59:27:07" end="00:59:30:21" tts:fontWeight="bold" region="bottom">I'd grown up in co ed schools, and I was like, that's really strange.</p>
+      <p begin="00:59:30:23" end="00:59:33:27" tts:fontWeight="bold" region="bottom">I didn't really know that there was all women colleges that existed,</p>
+      <p begin="00:59:33:27" end="00:59:37:06" tts:fontWeight="bold" region="bottom">and it has been the most incredible thing, and it is 100%</p>
+      <p begin="00:59:37:06" end="00:59:40:29" tts:fontWeight="bold" region="bottom">a plus for anybody who's worried about something like that now.</p>
+      <p begin="00:59:41:01" end="00:59:42:03" tts:fontWeight="bold" region="bottom">Don't let it be a worry.</p>
+      <p begin="00:59:42:05" end="00:59:45:05" tts:fontWeight="bold" region="bottom">I felt 100% more confident speaking in classes.</p>
+      <p begin="00:59:45:07" end="00:59:48:14" tts:fontWeight="bold" region="bottom">Um, and also just within athletics, too, um,</p>
+      <p begin="00:59:48:14" end="00:59:51:16" tts:fontWeight="bold" region="bottom">being on an athletic team and having all the female athletes</p>
+      <p begin="00:59:57:08" end="01:00:00:08" tts:fontWeight="bold" region="bottom">So it's been a really, it's</p>
+      <p begin="01:00:00:08" end="01:00:01:16" tts:fontWeight="bold" region="bottom">been a really great experience, 100%.</p>
+      <p begin="01:00:01:18" end="01:00:02:08" tts:fontWeight="bold" region="bottom">Yeah.</p>
+      <p begin="01:00:03:00" end="01:00:03:21" tts:fontWeight="bold" region="bottom">Oh.</p>
+      <p begin="01:00:05:03" end="01:00:10:03" tts:fontWeight="bold" region="bottom">If you could sum up Meredith, your journey here, in one word, what would be?</p>
+      <p begin="01:00:10:23" end="01:00:11:26" tts:fontWeight="bold" region="bottom">Okay, I gotta think of that.</p>
+      <p begin="01:00:12:18" end="01:00:12:20" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="01:00:13:13" end="01:00:13:29" tts:fontWeight="bold" region="bottom">One word.</p>
+      <p begin="01:00:15:13" end="01:00:19:01" tts:fontWeight="bold" region="bottom">I don't want to use a basic one, but... opportunity.</p>
+      <p begin="01:00:19:03" end="01:00:19:25" tts:fontWeight="bold" region="bottom">But it's true.</p>
+      <p begin="01:00:23:18" end="01:00:24:03" tts:fontWeight="bold" region="bottom">But it's true.</p>
+      <p begin="01:00:25:28" end="01:00:26:25" tts:fontWeight="bold" region="bottom">All right, okay.</p>
+      <p begin="01:00:28:20" end="01:00:29:15" tts:fontWeight="bold" region="bottom">Okay, I'll go with that.</p>
+      <p begin="01:00:29:19" end="01:00:30:03" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="01:00:30:17" end="01:00:34:20" tts:fontWeight="bold" region="bottom">If I could sum up Meredith in one word, I would say opportunity,</p>
+      <p begin="01:00:34:20" end="01:00:37:25" tts:fontWeight="bold" region="bottom">although it's generic, I think it sums up Meredith,</p>
+      <p begin="01:00:37:26" end="01:00:40:26" tts:fontWeight="bold" region="bottom">to the best of its ability, you get to be involved in as</p>
+      <p begin="01:00:40:26" end="01:00:44:10" tts:fontWeight="bold" region="bottom">little or as much as you want, and you get to really establish</p>
+      <p begin="01:00:44:10" end="01:00:47:15" tts:fontWeight="bold" region="bottom">your path here, and there is opportunity, no</p>
+      <p begin="01:00:47:15" end="01:00:49:00" tts:fontWeight="bold" region="bottom">matter where you look, no matter where you turn.</p>
+      <p begin="01:00:49:02" end="01:00:52:16" tts:fontWeight="bold" region="bottom">So I think that's the best way, um, to sum up my experience here.</p>
+      <p begin="01:00:53:06" end="01:00:54:03" tts:fontWeight="bold" region="bottom">That's a great answer.</p>
+      <p begin="01:00:54:05" end="01:00:56:15" tts:fontWeight="bold" region="bottom">Okay, is there anything I didn't ask you about?</p>
+      <p begin="01:00:56:18" end="01:00:57:22" tts:fontWeight="bold" region="bottom">I asked you what kind of stuff.</p>
+      <p begin="01:00:57:24" end="01:00:58:21" tts:fontWeight="bold" region="bottom">Is there anything you would want?</p>
+      <p begin="01:01:04:19" end="01:01:07:19" tts:fontWeight="bold" region="bottom">Um, maybe I should have included this somewhere else, but</p>
+      <p begin="01:01:07:19" end="01:01:10:26" tts:fontWeight="bold" region="bottom">maybe just the opportunity, I should have said this in what I was proud of.</p>
+      <p begin="01:01:10:28" end="01:01:13:01" tts:fontWeight="bold" region="bottom">That's okay, you can...</p>
+      <p begin="01:01:13:03" end="01:01:13:17" tts:fontWeight="bold" region="bottom">Yeah, to do it.</p>
+      <p begin="01:01:13:19" end="01:01:14:02" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="01:01:15:10" end="01:01:16:13" tts:fontWeight="bold" region="bottom">Um, okay.</p>
+      <p begin="01:01:17:16" end="01:01:17:25" tts:fontWeight="bold" region="bottom">Ready?</p>
+      <p begin="01:01:18:22" end="01:01:22:04" tts:fontWeight="bold" region="bottom">I think it's something I'm really proud of in my time here is, um,</p>
+      <p begin="01:01:22:04" end="01:01:24:27" tts:fontWeight="bold" region="bottom">the ability to establish, a new field hockey program.</p>
+      <p begin="01:01:24:29" end="01:01:28:11" tts:fontWeight="bold" region="bottom">I came into the program when it was its second NCAA year,</p>
+      <p begin="01:01:28:11" end="01:01:31:25" tts:fontWeight="bold" region="bottom">and the team at the time had just been recruited from</p>
+      <p begin="01:01:31:26" end="01:01:33:20" tts:fontWeight="bold" region="bottom">girls on campus who hadn't played before.</p>
+      <p begin="01:01:33:22" end="01:01:36:27" tts:fontWeight="bold" region="bottom">So I was the first recruiting class who had actually played field hockey</p>
+      <p begin="01:01:36:27" end="01:01:40:06" tts:fontWeight="bold" region="bottom">and just getting to establish the culture, accountability,</p>
+      <p begin="01:01:40:06" end="01:01:43:22" tts:fontWeight="bold" region="bottom">what we wanted for the program, our five, 10 year goals,</p>
+      <p begin="01:01:43:22" end="01:01:45:00" tts:fontWeight="bold" region="bottom">was something really, really incredible.</p>
+      <p begin="01:01:45:01" end="01:01:48:05" tts:fontWeight="bold" region="bottom">And to see just the growth from my freshman year, to now</p>
+      <p begin="01:01:59:11" end="01:02:01:19" tts:fontWeight="bold" region="bottom">goes from here, but it's definitely something I'm really proud of.</p>
+      <p begin="01:02:01:21" end="01:02:02:14" tts:fontWeight="bold" region="bottom">That's awesome.</p>
+      <p begin="01:02:02:16" end="01:02:03:20" tts:fontWeight="bold" region="bottom">And you'll be able to come visit?</p>
+      <p begin="01:02:03:24" end="01:02:04:12" tts:fontWeight="bold" region="bottom">Yes.</p>
+      <p begin="01:02:05:15" end="01:02:06:14" tts:fontWeight="bold" region="bottom">All right, I'm gonna pause.</p>
+      <p begin="01:02:06:17" end="01:02:07:25" tts:fontWeight="bold" region="bottom">I'm gonna just have you say one thing I .</p>
+      <p begin="01:02:07:27" end="01:02:09:08" tts:fontWeight="bold" region="bottom">All right, I am rolling.</p>
+      <p begin="01:02:09:10" end="01:02:09:24" tts:fontWeight="bold" region="bottom">Go ahead.</p>
+      <p begin="01:02:10:04" end="01:02:11:25" tts:fontWeight="bold" region="bottom">My name is Sierra Grande.</p>
+      <p begin="01:02:11:27" end="01:02:14:14" tts:fontWeight="bold" region="bottom">I am a health exercise and sports sciences major.</p>
+      <p begin="01:02:14:16" end="01:02:17:02" tts:fontWeight="bold" region="bottom">I'm Meredith College, and a member of the class of 2026.</p>
+      <p begin="01:02:17:11" end="01:02:18:13" tts:fontWeight="bold" region="bottom">This is me.</p>
+      <p begin="01:02:18:15" end="01:02:19:23" tts:fontWeight="bold" region="bottom">This is Meredith.</p>
+      <p begin="01:02:21:14" end="01:02:23:16" tts:fontWeight="bold" region="bottom">You want to do that, this is me, this is Meredith.</p>
+      <p begin="01:02:23:18" end="01:02:25:14" tts:fontWeight="bold" region="bottom">Like, just a little bit more, like, this is me.</p>
+      <p begin="01:02:25:15" end="01:02:26:14" tts:fontWeight="bold" region="bottom">Empowering?</p>
+      <p begin="01:02:26:16" end="01:02:27:15" tts:fontWeight="bold" region="bottom">Okay, okay.</p>
+      <p begin="01:02:29:26" end="01:02:30:06" tts:fontWeight="bold" region="bottom">All right.</p>
+      <p begin="01:02:30:07" end="01:02:31:27" tts:fontWeight="bold" region="bottom">It's gonna be, like, a cool graphic when it comes on.</p>
+      <p begin="01:02:31:29" end="01:02:34:20" tts:fontWeight="bold" region="bottom">It'll, like, come up with me, and then the me turns into the word man.</p>
+      <p begin="01:02:34:22" end="01:02:35:21" tts:fontWeight="bold" region="bottom">Ooh, okay, okay.</p>
+      <p begin="01:02:36:09" end="01:02:37:02" tts:fontWeight="bold" region="bottom">And just that part.</p>
+      <p begin="01:02:37:23" end="01:02:39:02" tts:fontWeight="bold" region="bottom">Yeah, you can say that again.</p>
+      <p begin="01:02:39:20" end="01:02:40:15" tts:fontWeight="bold" region="bottom">This is me.</p>
+      <p begin="01:02:40:17" end="01:02:42:00" tts:fontWeight="bold" region="bottom">Meredith.</p>
+      <p begin="01:02:43:03" end="01:02:43:22" tts:fontWeight="bold" region="bottom">Is that okay?</p>
+      <p begin="01:02:43:24" end="01:02:44:08" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="01:02:44:08" end="01:02:44:17" tts:fontWeight="bold" region="bottom">Okay.</p>
+      <p begin="01:02:44:19" end="01:02:45:07" tts:fontWeight="bold" region="bottom">Sounds good.</p>
+    </div>
+  </body>
+</tt>
